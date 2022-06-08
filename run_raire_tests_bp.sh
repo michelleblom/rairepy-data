@@ -1,14 +1,21 @@
 
 
-for instance in RaireData/Input/*.raire; do
+for instance in RaireData/Input/NSW15/*.raire; do
     bn=`basename ${instance}`
-    echo "Running test on instance $bn"
+    echo "Running test on NSW15 instance $bn"
     python ../rairepy/run_raire.py -e -i ${instance} -bp
 done
 
-for instance in RaireData/Input/NSW2015/*.raire; do
+for instance in RaireData/Input/NSW19/*.raire; do
     bn=`basename ${instance}`
-    echo "Running test on instance $bn"
+    echo "Running test on NSW19 instance $bn"
+    python ../rairepy/run_raire.py -e -i ${instance} -bp
+done
+
+
+for instance in RaireData/Input/US/*.raire; do
+    bn=`basename ${instance}`
+    echo "Running test on US instance $bn"
     python ../rairepy/run_raire.py -e -i ${instance} -bp
 done
 
