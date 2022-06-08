@@ -1,0 +1,1100 @@
+Running test on instance Aspen_2009.raire
+Contest 1
+NEN,Winner,8,Loser,5,Eliminated,1,2,3,4,6,7,9,10,11 : 240, 9.43%
+NEN,Winner,4,Loser,2,Eliminated,1,3,6,7,8,9,10,11 : 240, 9.43%
+NEN,Winner,3,Loser,5,Eliminated,1,4,6,7,8,9,10,11 : 230, 9.04%
+NEN,Winner,2,Loser,1,Eliminated,3,6,7,8,9,10,11 : 210, 8.25%
+NEN,Winner,2,Loser,5,Eliminated,1,4,6,7,8,9,10,11 : 205, 8.06%
+NEN,Winner,3,Loser,4,Eliminated,1,6,7,8,9,10,11 : 193, 7.59%
+NEN,Winner,8,Loser,5,Eliminated,1,6,7,9,10,11 : 167, 6.56%
+NEN,Winner,4,Loser,3,Eliminated,1,2,6,7,8,9,10,11 : 167, 6.56%
+NEN,Winner,8,Loser,3,Eliminated,1,2,6,7,9,10,11 : 160, 6.29%
+NEN,Winner,8,Loser,4,Eliminated,1,2,3,5,6,7,9,10,11 : 160, 6.29%
+NEN,Winner,5,Loser,3,Eliminated,1,2,4,6,7,8,9,10,11 : 163, 6.41%
+NEN,Winner,8,Loser,3,Eliminated,1,4,6,7,9,10,11 : 157, 6.17%
+NEN,Winner,8,Loser,4,Eliminated,1,5,6,7,9,10,11 : 139, 5.46%
+NEN,Winner,2,Loser,1,Eliminated,5,6,7,8,9,10,11 : 141, 5.54%
+NEN,Winner,3,Loser,2,Eliminated,1,4,5,6,7,8,9,10,11 : 139, 5.46%
+NEN,Winner,5,Loser,1,Eliminated,6,7,8,9,10,11 : 136, 5.35%
+NEB,Winner,8,Loser,6,Eliminated : 129, 5.07%
+NEN,Winner,5,Loser,1,Eliminated,3,6,7,8,9,10,11 : 122, 4.80%
+NEN,Winner,3,Loser,2,Eliminated,1,5,6,7,8,9,10,11 : 123, 4.83%
+NEN,Winner,4,Loser,1,Eliminated,3,6,7,8,9,10,11 : 125, 4.91%
+NEB,Winner,8,Loser,9,Eliminated : 119, 4.68%
+NEN,Winner,5,Loser,1,Eliminated,4,6,7,8,9,10,11 : 117, 4.60%
+NEN,Winner,4,Loser,1,Eliminated,5,6,7,8,9,10,11 : 116, 4.56%
+NEN,Winner,8,Loser,3,Eliminated,1,4,5,6,7,9,10,11 : 118, 4.64%
+NEN,Winner,2,Loser,1,Eliminated,3,4,6,7,8,9,10,11 : 114, 4.48%
+NEN,Winner,3,Loser,1,Eliminated,2,4,5,6,7,8,9,10,11 : 115, 4.52%
+NEN,Winner,5,Loser,2,Eliminated,1,3,6,7,8,9,10,11 : 107, 4.21%
+NEN,Winner,8,Loser,3,Eliminated,1,2,5,6,7,9,10,11 : 107, 4.21%
+NEN,Winner,8,Loser,3,Eliminated,1,2,4,6,7,9,10,11 : 107, 4.21%
+NEN,Winner,5,Loser,2,Eliminated,1,3,4,6,7,8,9,10,11 : 108, 4.25%
+NEN,Winner,8,Loser,5,Eliminated,1,2,3,6,7,9,10,11 : 105, 4.13%
+NEN,Winner,4,Loser,1,Eliminated,6,7,8,9,10,11 : 106, 4.17%
+NEN,Winner,3,Loser,1,Eliminated,2,5,6,7,8,9,10,11 : 103, 4.05%
+NEN,Winner,5,Loser,1,Eliminated,2,6,7,8,9,10,11 : 102, 4.01%
+NEN,Winner,3,Loser,1,Eliminated,2,4,6,7,8,9,10,11 : 105, 4.13%
+NEN,Winner,4,Loser,3,Eliminated,1,2,5,6,7,8,9,10,11 : 105, 4.13%
+NEN,Winner,5,Loser,1,Eliminated,3,4,6,7,8,9,10,11 : 93, 3.66%
+NEN,Winner,4,Loser,2,Eliminated,3,5,6,7,8,9,10,11 : 98, 3.85%
+NEN,Winner,2,Loser,1,Eliminated,6,7,8,9,10,11 : 98, 3.85%
+NEN,Winner,2,Loser,1,Eliminated,4,5,6,7,8,9,10,11 : 94, 3.69%
+NEN,Winner,5,Loser,1,Eliminated,2,3,6,7,8,9,10,11 : 97, 3.81%
+NEN,Winner,3,Loser,1,Eliminated,2,6,7,8,9,10,11 : 91, 3.58%
+NEN,Winner,1,Loser,7,Eliminated,6,8,9,10,11 : 83, 3.26%
+NEN,Winner,8,Loser,1,Eliminated,2,6,7,9,10,11 : 80, 3.14%
+NEN,Winner,5,Loser,1,Eliminated,2,4,6,7,8,9,10,11 : 83, 3.26%
+NEN,Winner,8,Loser,1,Eliminated,2,5,6,7,9,10,11 : 81, 3.18%
+NEN,Winner,3,Loser,1,Eliminated,6,7,8,9,10,11 : 76, 2.99%
+NEN,Winner,1,Loser,7,Eliminated,5,6,8,9,10,11 : 77, 3.03%
+NEN,Winner,8,Loser,1,Eliminated,2,4,5,6,7,9,10,11 : 79, 3.11%
+NEN,Winner,1,Loser,7,Eliminated,4,6,8,9,10,11 : 78, 3.07%
+NEN,Winner,1,Loser,7,Eliminated,4,5,6,8,9,10,11 : 76, 2.99%
+NEN,Winner,8,Loser,5,Eliminated,1,3,4,6,7,9,10,11 : 79, 3.11%
+NEN,Winner,8,Loser,1,Eliminated,2,4,6,7,9,10,11 : 76, 2.99%
+NEN,Winner,3,Loser,1,Eliminated,5,6,7,8,9,10,11 : 70, 2.75%
+NEN,Winner,8,Loser,1,Eliminated,6,7,9,10,11 : 72, 2.83%
+NEN,Winner,1,Loser,7,Eliminated,2,6,8,9,10,11 : 67, 2.63%
+NEN,Winner,8,Loser,1,Eliminated,5,6,7,9,10,11 : 67, 2.63%
+NEN,Winner,4,Loser,1,Eliminated,2,3,6,7,8,9,10,11 : 67, 2.63%
+NEN,Winner,3,Loser,1,Eliminated,4,6,7,8,9,10,11 : 71, 2.79%
+NEN,Winner,2,Loser,1,Eliminated,4,6,7,8,9,10,11 : 72, 2.83%
+NEN,Winner,8,Loser,3,Eliminated,1,2,4,5,6,7,9,10,11 : 72, 2.83%
+NEN,Winner,5,Loser,1,Eliminated,2,3,4,6,7,8,9,10,11 : 70, 2.75%
+NEN,Winner,4,Loser,1,Eliminated,2,3,5,6,7,8,9,10,11 : 72, 2.83%
+NEN,Winner,1,Loser,7,Eliminated,3,6,8,9,10,11 : 66, 2.59%
+NEN,Winner,4,Loser,1,Eliminated,2,5,6,7,8,9,10,11 : 60, 2.36%
+NEN,Winner,8,Loser,1,Eliminated,4,6,7,9,10,11 : 64, 2.52%
+NEN,Winner,2,Loser,7,Eliminated,3,5,6,8,9,10,11 : 62, 2.44%
+NEN,Winner,2,Loser,7,Eliminated,1,3,5,6,8,9,10,11 : 62, 2.44%
+NEN,Winner,1,Loser,7,Eliminated,3,4,6,8,9,10,11 : 61, 2.40%
+NEN,Winner,4,Loser,1,Eliminated,2,6,7,8,9,10,11 : 62, 2.44%
+NEN,Winner,3,Loser,1,Eliminated,4,5,6,7,8,9,10,11 : 57, 2.24%
+NEN,Winner,1,Loser,7,Eliminated,2,3,6,8,9,10,11 : 54, 2.12%
+NEN,Winner,5,Loser,7,Eliminated,6,8,9,10,11 : 55, 2.16%
+NEN,Winner,1,Loser,7,Eliminated,3,4,5,6,8,9,10,11 : 57, 2.24%
+NEN,Winner,8,Loser,1,Eliminated,4,5,6,7,9,10,11 : 57, 2.24%
+NEN,Winner,1,Loser,7,Eliminated,3,5,6,8,9,10,11 : 59, 2.32%
+NEN,Winner,1,Loser,7,Eliminated,2,5,6,8,9,10,11 : 58, 2.28%
+NEN,Winner,1,Loser,7,Eliminated,2,4,6,8,9,10,11 : 57, 2.24%
+NEN,Winner,2,Loser,7,Eliminated,1,3,4,5,6,8,9,10,11 : 56, 2.20%
+NEN,Winner,4,Loser,2,Eliminated,1,3,5,6,7,8,9,10,11 : 55, 2.16%
+NEN,Winner,2,Loser,7,Eliminated,3,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,8,Loser,1,Eliminated,2,3,6,7,9,10,11 : 50, 1.97%
+NEN,Winner,2,Loser,7,Eliminated,3,4,5,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,5,Loser,7,Eliminated,4,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,4,Loser,7,Eliminated,5,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,4,Loser,7,Eliminated,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,1,Loser,7,Eliminated,2,4,5,6,8,9,10,11 : 50, 1.97%
+NEN,Winner,8,Loser,2,Eliminated,1,3,5,6,7,9,10,11 : 52, 2.04%
+NEN,Winner,2,Loser,7,Eliminated,5,6,8,9,10,11 : 49, 1.93%
+NEN,Winner,8,Loser,2,Eliminated,1,3,4,5,6,7,9,10,11 : 52, 2.04%
+NEN,Winner,5,Loser,7,Eliminated,3,6,8,9,10,11 : 46, 1.81%
+NEN,Winner,8,Loser,1,Eliminated,3,5,6,7,9,10,11 : 40, 1.57%
+NEN,Winner,4,Loser,7,Eliminated,3,5,6,8,9,10,11 : 46, 1.81%
+NEN,Winner,8,Loser,7,Eliminated,6,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,7,Eliminated,1,6,9,10,11 : 41, 1.61%
+NEN,Winner,3,Loser,7,Eliminated,6,8,9,10,11 : 41, 1.61%
+NEN,Winner,8,Loser,1,Eliminated,3,6,7,9,10,11 : 46, 1.81%
+NEN,Winner,8,Loser,7,Eliminated,2,6,9,10,11 : 44, 1.73%
+NEN,Winner,2,Loser,7,Eliminated,6,8,9,10,11 : 46, 1.81%
+NEN,Winner,2,Loser,7,Eliminated,1,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,2,Loser,7,Eliminated,1,3,6,8,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,7,Eliminated,5,6,9,10,11 : 43, 1.69%
+NEN,Winner,5,Loser,7,Eliminated,1,6,8,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,7,Eliminated,2,4,5,6,9,10,11 : 41, 1.61%
+NEN,Winner,2,Loser,7,Eliminated,4,5,6,8,9,10,11 : 41, 1.61%
+NEN,Winner,8,Loser,7,Eliminated,4,6,9,10,11 : 42, 1.65%
+NEN,Winner,4,Loser,7,Eliminated,1,6,8,9,10,11 : 45, 1.77%
+NEN,Winner,4,Loser,7,Eliminated,1,5,6,8,9,10,11 : 42, 1.65%
+NEN,Winner,8,Loser,1,Eliminated,2,3,5,6,7,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,7,Eliminated,2,5,6,9,10,11 : 42, 1.65%
+NEN,Winner,5,Loser,7,Eliminated,2,6,8,9,10,11 : 44, 1.73%
+NEN,Winner,2,Loser,7,Eliminated,1,5,6,8,9,10,11 : 41, 1.61%
+NEN,Winner,1,Loser,7,Eliminated,2,3,5,6,8,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,1,Eliminated,2,3,4,6,7,9,10,11 : 46, 1.81%
+NEN,Winner,4,Loser,7,Eliminated,3,6,8,9,10,11 : 45, 1.77%
+NEN,Winner,8,Loser,1,Eliminated,3,4,6,7,9,10,11 : 41, 1.61%
+NEN,Winner,8,Loser,7,Eliminated,2,4,6,9,10,11 : 41, 1.61%
+NEN,Winner,1,Loser,7,Eliminated,2,3,4,6,8,9,10,11 : 46, 1.81%
+NEN,Winner,8,Loser,1,Eliminated,2,3,4,5,6,7,9,10,11 : 42, 1.65%
+NEB,Winner,8,Loser,11,Eliminated : 37, 1.45%
+NEB,Winner,8,Loser,10,Eliminated : 38, 1.49%
+NEN,Winner,3,Loser,7,Eliminated,5,6,8,9,10,11 : 39, 1.53%
+NEN,Winner,5,Loser,7,Eliminated,3,4,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,3,Loser,7,Eliminated,4,5,6,8,9,10,11 : 35, 1.38%
+NEN,Winner,8,Loser,1,Eliminated,3,4,5,6,7,9,10,11 : 35, 1.38%
+NEB,Winner,2,Loser,11,Eliminated : 38, 1.49%
+NEB,Winner,2,Loser,10,Eliminated : 38, 1.49%
+NEN,Winner,3,Loser,7,Eliminated,2,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,3,Loser,7,Eliminated,1,6,8,9,10,11 : 36, 1.42%
+NEN,Winner,8,Loser,7,Eliminated,1,2,6,9,10,11 : 38, 1.49%
+NEN,Winner,3,Loser,7,Eliminated,1,2,6,8,9,10,11 : 35, 1.38%
+NEN,Winner,8,Loser,7,Eliminated,1,5,6,9,10,11 : 37, 1.45%
+NEN,Winner,3,Loser,7,Eliminated,2,4,5,6,8,9,10,11 : 36, 1.42%
+NEN,Winner,4,Loser,7,Eliminated,1,3,5,6,8,9,10,11 : 39, 1.53%
+NEN,Winner,5,Loser,7,Eliminated,2,4,6,8,9,10,11 : 36, 1.42%
+NEN,Winner,8,Loser,7,Eliminated,4,5,6,9,10,11 : 40, 1.57%
+NEN,Winner,8,Loser,7,Eliminated,1,4,6,9,10,11 : 37, 1.45%
+NEN,Winner,8,Loser,7,Eliminated,1,4,5,6,9,10,11 : 34, 1.34%
+NEN,Winner,5,Loser,7,Eliminated,1,4,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,2,Loser,7,Eliminated,1,4,5,6,8,9,10,11 : 34, 1.34%
+NEN,Winner,5,Loser,7,Eliminated,2,3,6,8,9,10,11 : 38, 1.49%
+NEN,Winner,3,Loser,7,Eliminated,2,5,6,8,9,10,11 : 38, 1.49%
+NEN,Winner,5,Loser,7,Eliminated,1,3,6,8,9,10,11 : 35, 1.38%
+NEN,Winner,8,Loser,7,Eliminated,1,2,5,6,9,10,11 : 35, 1.38%
+NEN,Winner,5,Loser,7,Eliminated,1,2,6,8,9,10,11 : 35, 1.38%
+NEN,Winner,3,Loser,7,Eliminated,2,4,6,8,9,10,11 : 37, 1.45%
+NEN,Winner,2,Loser,7,Eliminated,3,4,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,3,Loser,7,Eliminated,4,6,8,9,10,11 : 38, 1.49%
+NEN,Winner,4,Loser,7,Eliminated,1,3,6,8,9,10,11 : 40, 1.57%
+NEN,Winner,4,Loser,7,Eliminated,2,6,8,9,10,11 : 34, 1.34%
+NEN,Winner,2,Loser,7,Eliminated,4,6,8,9,10,11 : 39, 1.53%
+NEN,Winner,8,Loser,7,Eliminated,1,2,4,6,9,10,11 : 35, 1.38%
+NEN,Winner,2,Loser,7,Eliminated,1,3,4,6,8,9,10,11 : 36, 1.42%
+NEN,Winner,1,Loser,7,Eliminated,2,3,4,5,6,8,9,10,11 : 38, 1.49%
+NEN,Winner,8,Loser,7,Eliminated,3,5,6,9,10,11 : 30, 1.18%
+NEN,Winner,8,Loser,7,Eliminated,3,4,5,6,9,10,11 : 28, 1.10%
+NEN,Winner,8,Loser,7,Eliminated,2,3,6,9,10,11 : 32, 1.26%
+NEN,Winner,8,Loser,7,Eliminated,3,6,9,10,11 : 33, 1.30%
+NEN,Winner,8,Loser,7,Eliminated,1,3,6,9,10,11 : 29, 1.14%
+NEN,Winner,8,Loser,7,Eliminated,1,2,3,6,9,10,11 : 27, 1.06%
+NEN,Winner,8,Loser,7,Eliminated,2,3,4,5,6,9,10,11 : 28, 1.10%
+NEN,Winner,5,Loser,7,Eliminated,2,3,4,6,8,9,10,11 : 30, 1.18%
+NEN,Winner,4,Loser,7,Eliminated,2,3,5,6,8,9,10,11 : 29, 1.14%
+NEN,Winner,5,Loser,7,Eliminated,1,3,4,6,8,9,10,11 : 30, 1.18%
+NEN,Winner,3,Loser,7,Eliminated,1,4,5,6,8,9,10,11 : 30, 1.18%
+NEN,Winner,4,Loser,7,Eliminated,2,5,6,8,9,10,11 : 32, 1.26%
+NEN,Winner,8,Loser,7,Eliminated,1,2,4,5,6,9,10,11 : 33, 1.30%
+NEN,Winner,5,Loser,7,Eliminated,1,2,4,6,8,9,10,11 : 29, 1.14%
+NEN,Winner,8,Loser,7,Eliminated,2,3,5,6,9,10,11 : 29, 1.14%
+NEN,Winner,3,Loser,7,Eliminated,1,5,6,8,9,10,11 : 33, 1.30%
+NEN,Winner,5,Loser,7,Eliminated,1,2,3,6,8,9,10,11 : 29, 1.14%
+NEN,Winner,3,Loser,7,Eliminated,1,2,5,6,8,9,10,11 : 32, 1.26%
+NEN,Winner,8,Loser,7,Eliminated,2,3,4,6,9,10,11 : 29, 1.14%
+NEN,Winner,4,Loser,7,Eliminated,2,3,6,8,9,10,11 : 31, 1.22%
+NEN,Winner,8,Loser,7,Eliminated,3,4,6,9,10,11 : 30, 1.18%
+NEN,Winner,3,Loser,7,Eliminated,1,4,6,8,9,10,11 : 33, 1.30%
+NEN,Winner,4,Loser,7,Eliminated,1,2,6,8,9,10,11 : 29, 1.14%
+NEN,Winner,2,Loser,7,Eliminated,1,4,6,8,9,10,11 : 33, 1.30%
+NEN,Winner,3,Loser,7,Eliminated,1,2,4,6,8,9,10,11 : 33, 1.30%
+NEN,Winner,3,Loser,7,Eliminated,1,2,4,5,6,8,9,10,11 : 30, 1.18%
+NEN,Winner,8,Loser,7,Eliminated,1,3,4,5,6,9,10,11 : 23, 0.90%
+NEN,Winner,4,Loser,7,Eliminated,1,2,5,6,8,9,10,11 : 25, 0.98%
+NEN,Winner,8,Loser,7,Eliminated,1,3,5,6,9,10,11 : 25, 0.98%
+NEN,Winner,8,Loser,7,Eliminated,1,2,3,5,6,9,10,11 : 24, 0.94%
+NEN,Winner,8,Loser,7,Eliminated,1,3,4,6,9,10,11 : 27, 1.06%
+NEN,Winner,8,Loser,7,Eliminated,1,2,3,4,6,9,10,11 : 25, 0.98%
+NEN,Winner,4,Loser,7,Eliminated,1,2,3,6,8,9,10,11 : 26, 1.02%
+NEN,Winner,8,Loser,7,Eliminated,1,2,3,4,5,6,9,10,11 : 22, 0.86%
+NEN,Winner,5,Loser,7,Eliminated,1,2,3,4,6,8,9,10,11 : 22, 0.86%
+NEN,Winner,4,Loser,7,Eliminated,1,2,3,5,6,8,9,10,11 : 22, 0.86%
+Expected sample size required: 240, 9.43%
+Contest 2
+NEN,Winner,4,Loser,1,Eliminated,2,3,5 : 95, 3.73%
+NEB,Winner,4,Loser,3,Eliminated : 67, 2.63%
+NEB,Winner,1,Loser,3,Eliminated : 58, 2.28%
+NEN,Winner,1,Loser,2,Eliminated,3,5 : 37, 1.45%
+NEB,Winner,1,Loser,5,Eliminated : 21, 0.83%
+NEN,Winner,4,Loser,2,Eliminated,3,5 : 26, 1.02%
+NEB,Winner,4,Loser,5,Eliminated : 17, 0.67%
+Expected sample size required: 95, 3.73%
+Running test on instance Berkeley_2010.raire
+Contest 1
+NEN,Winner,380,Loser,378,Eliminated,379,381,79 : 19, 0.30%
+NEB,Winner,380,Loser,379,Eliminated : 16, 0.25%
+NEB,Winner,380,Loser,381,Eliminated : 14, 0.22%
+NEB,Winner,380,Loser,79,Eliminated : 12, 0.19%
+Expected sample size required: 19, 0.30%
+Contest 2
+NEN,Winner,385,Loser,384,Eliminated,77,382,383 : 37, 0.65%
+NEB,Winner,385,Loser,382,Eliminated : 27, 0.47%
+NEB,Winner,385,Loser,383,Eliminated : 22, 0.39%
+NEB,Winner,385,Loser,77,Eliminated : 16, 0.28%
+Expected sample size required: 37, 0.65%
+Contest 3
+NEN,Winner,387,Loser,388,Eliminated,386,74 : 45, 0.93%
+NEB,Winner,387,Loser,386,Eliminated : 39, 0.80%
+NEB,Winner,387,Loser,74,Eliminated : 16, 0.33%
+Expected sample size required: 45, 0.93%
+Contest 4
+NEB,Winner,389,Loser,390,Eliminated : 25, 0.47%
+NEB,Winner,389,Loser,391,Eliminated : 24, 0.45%
+NEB,Winner,389,Loser,73,Eliminated : 13, 0.24%
+Expected sample size required: 25, 0.47%
+Running test on instance Oakland_2010.raire
+Contest 1
+NEN,Winner,408,Loser,405,Eliminated,76,406,407,409,410,411 : 34, 0.14%
+NEB,Winner,408,Loser,407,Eliminated : 37, 0.15%
+NEB,Winner,408,Loser,410,Eliminated : 34, 0.14%
+NEB,Winner,408,Loser,409,Eliminated : 28, 0.12%
+NEB,Winner,408,Loser,406,Eliminated : 24, 0.10%
+NEB,Winner,408,Loser,411,Eliminated : 23, 0.10%
+NEB,Winner,408,Loser,76,Eliminated : 19, 0.08%
+Expected sample size required: 37, 0.15%
+Contest 2
+NEB,Winner,412,Loser,413,Eliminated : 18, 0.13%
+NEN,Winner,412,Loser,414,Eliminated,75,413 : 18, 0.13%
+NEB,Winner,412,Loser,75,Eliminated : 12, 0.09%
+Expected sample size required: 18, 0.13%
+Contest 3
+NEN,Winner,397,Loser,393,Eliminated,394,395,396,398,399,400,401,402,87 : 398, 0.33%
+NEN,Winner,397,Loser,402,Eliminated,394,395,396,398,399,400,401,87 : 349, 0.29%
+NEN,Winner,393,Loser,402,Eliminated,394,395,396,397,398,399,400,401,87 : 204, 0.17%
+NEB,Winner,393,Loser,399,Eliminated : 147, 0.12%
+NEN,Winner,397,Loser,402,Eliminated,393,394,395,396,398,399,400,401,87 : 142, 0.12%
+NEN,Winner,397,Loser,399,Eliminated,394,395,396,398,400,401,87 : 50, 0.04%
+NEB,Winner,397,Loser,400,Eliminated : 44, 0.04%
+NEN,Winner,402,Loser,399,Eliminated,394,395,396,397,398,400,401,87 : 39, 0.03%
+NEN,Winner,397,Loser,399,Eliminated,394,395,396,398,400,401,402,87 : 35, 0.03%
+NEB,Winner,397,Loser,394,Eliminated : 38, 0.03%
+NEB,Winner,397,Loser,87,Eliminated : 29, 0.02%
+NEB,Winner,397,Loser,401,Eliminated : 33, 0.03%
+NEB,Winner,397,Loser,398,Eliminated : 32, 0.03%
+NEB,Winner,397,Loser,396,Eliminated : 33, 0.03%
+NEB,Winner,397,Loser,395,Eliminated : 33, 0.03%
+NEB,Winner,393,Loser,400,Eliminated : 27, 0.02%
+NEB,Winner,393,Loser,401,Eliminated : 23, 0.02%
+NEB,Winner,393,Loser,398,Eliminated : 22, 0.02%
+NEB,Winner,393,Loser,396,Eliminated : 23, 0.02%
+NEB,Winner,393,Loser,395,Eliminated : 22, 0.02%
+NEB,Winner,393,Loser,394,Eliminated : 24, 0.02%
+NEB,Winner,393,Loser,87,Eliminated : 21, 0.02%
+Expected sample size required: 398, 0.33%
+Running test on instance Pierce_2008.raire
+Contest 1
+NEN,Winner,131,Loser,129,Eliminated,130,39 : 72, 0.16%
+NEB,Winner,131,Loser,130,Eliminated : 54, 0.12%
+NEB,Winner,131,Loser,39,Eliminated : 15, 0.03%
+Expected sample size required: 72, 0.16%
+Contest 2
+NEN,Winner,120,Loser,122,Eliminated,40,121,123,124,125 : 929, 0.30%
+NEN,Winner,122,Loser,124,Eliminated,40,120,123,125 : 464, 0.15%
+NEN,Winner,120,Loser,124,Eliminated,40,121,122,123,125 : 283, 0.09%
+NEN,Winner,120,Loser,121,Eliminated,40,122,123,124,125 : 255, 0.08%
+NEN,Winner,121,Loser,124,Eliminated,40,120,122,123,125 : 250, 0.08%
+NEN,Winner,120,Loser,121,Eliminated,40,123,124,125 : 209, 0.07%
+NEN,Winner,121,Loser,124,Eliminated,40,120,123,125 : 196, 0.06%
+NEN,Winner,120,Loser,121,Eliminated,40,122,123,125 : 168, 0.05%
+NEN,Winner,120,Loser,122,Eliminated,40,121,123,125 : 168, 0.05%
+NEN,Winner,122,Loser,124,Eliminated,40,120,121,123,125 : 166, 0.05%
+NEN,Winner,120,Loser,122,Eliminated,40,123,125 : 150, 0.05%
+NEB,Winner,120,Loser,123,Eliminated : 81, 0.03%
+NEN,Winner,124,Loser,125,Eliminated,40,120,123 : 82, 0.03%
+NEN,Winner,122,Loser,125,Eliminated,40,120,123,124 : 69, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,123,124 : 63, 0.02%
+NEN,Winner,122,Loser,125,Eliminated,40,120,123 : 64, 0.02%
+NEN,Winner,124,Loser,125,Eliminated,40,120,122,123 : 63, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,122,123,124 : 64, 0.02%
+NEN,Winner,124,Loser,125,Eliminated,40,120,121,123 : 66, 0.02%
+NEN,Winner,121,Loser,125,Eliminated,40,120,123,124 : 62, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,123 : 53, 0.02%
+NEN,Winner,121,Loser,125,Eliminated,40,120,123 : 54, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,121,123,124 : 57, 0.02%
+NEN,Winner,121,Loser,125,Eliminated,40,120,122,123,124 : 57, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,121,122,123,124 : 56, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,122,123 : 49, 0.02%
+NEN,Winner,120,Loser,125,Eliminated,40,121,123 : 47, 0.02%
+NEN,Winner,121,Loser,125,Eliminated,40,120,122,123 : 47, 0.02%
+NEN,Winner,124,Loser,125,Eliminated,40,120,121,122,123 : 50, 0.02%
+NEN,Winner,122,Loser,125,Eliminated,40,120,121,123,124 : 47, 0.02%
+NEN,Winner,122,Loser,125,Eliminated,40,120,121,123 : 45, 0.01%
+NEN,Winner,120,Loser,125,Eliminated,40,121,122,123 : 43, 0.01%
+NEB,Winner,120,Loser,40,Eliminated : 33, 0.01%
+Expected sample size required: 929, 0.30%
+Contest 3
+NEN,Winner,441,Loser,440,Eliminated,442,132 : 63, 0.04%
+NEB,Winner,440,Loser,132,Eliminated : 18, 0.01%
+NEB,Winner,441,Loser,132,Eliminated : 14, 0.01%
+NEB,Winner,441,Loser,442,Eliminated : 19, 0.01%
+Expected sample size required: 63, 0.04%
+Contest 4
+NEN,Winner,117,Loser,119,Eliminated,35,116,118 : 509, 0.16%
+NEN,Winner,118,Loser,119,Eliminated,35,116,117 : 349, 0.11%
+NEN,Winner,117,Loser,118,Eliminated,35,116 : 140, 0.04%
+NEN,Winner,117,Loser,118,Eliminated,35,116,119 : 143, 0.05%
+NEN,Winner,117,Loser,116,Eliminated,35,119 : 131, 0.04%
+NEN,Winner,117,Loser,116,Eliminated,35 : 61, 0.02%
+NEN,Winner,119,Loser,116,Eliminated,35,117,118 : 65, 0.02%
+NEN,Winner,118,Loser,116,Eliminated,35,117,119 : 50, 0.02%
+NEN,Winner,117,Loser,116,Eliminated,35,118,119 : 46, 0.01%
+NEN,Winner,119,Loser,116,Eliminated,35,117 : 37, 0.01%
+NEN,Winner,118,Loser,116,Eliminated,35,117 : 36, 0.01%
+NEN,Winner,117,Loser,116,Eliminated,35,118 : 35, 0.01%
+NEB,Winner,117,Loser,35,Eliminated : 27, 0.01%
+NEB,Winner,119,Loser,35,Eliminated : 20, 0.01%
+Expected sample size required: 509, 0.16%
+Running test on instance Data_NA_Albury.raire
+Contest 1
+NEN,Winner,3,Loser,0,Eliminated,1,2,4 : 27, 0.06%
+NEB,Winner,3,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,3,Loser,2,Eliminated : 16, 0.03%
+NEB,Winner,3,Loser,1,Eliminated : 15, 0.03%
+Expected sample size required: 27, 0.06%
+Running test on instance Data_NA_Auburn.raire
+Contest 1
+NEN,Winner,4,Loser,1,Eliminated,0,2,3,5 : 64, 0.15%
+NEB,Winner,4,Loser,5,Eliminated : 19, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 20, 0.05%
+NEB,Winner,4,Loser,2,Eliminated : 19, 0.04%
+NEB,Winner,4,Loser,0,Eliminated : 19, 0.04%
+Expected sample size required: 64, 0.15%
+Running test on instance Data_NA_Ballina.raire
+Contest 1
+NEN,Winner,4,Loser,6,Eliminated,0,1,3,5 : 139, 0.29%
+NEN,Winner,6,Loser,2,Eliminated,0,1,3,4,5 : 128, 0.27%
+NEN,Winner,4,Loser,6,Eliminated,0,1,2,3,5 : 123, 0.26%
+NEN,Winner,4,Loser,2,Eliminated,0,1,3,5,6 : 124, 0.26%
+NEB,Winner,4,Loser,1,Eliminated : 55, 0.12%
+NEB,Winner,4,Loser,0,Eliminated : 38, 0.08%
+NEB,Winner,4,Loser,5,Eliminated : 31, 0.07%
+NEB,Winner,4,Loser,3,Eliminated : 31, 0.07%
+Expected sample size required: 139, 0.29%
+Running test on instance Data_NA_Balmain.raire
+Contest 1
+NEN,Winner,5,Loser,6,Eliminated,0,1,2,3,4 : 90, 0.19%
+NEB,Winner,5,Loser,2,Eliminated : 68, 0.14%
+NEB,Winner,5,Loser,4,Eliminated : 22, 0.05%
+NEB,Winner,5,Loser,1,Eliminated : 21, 0.04%
+NEB,Winner,5,Loser,0,Eliminated : 22, 0.05%
+NEB,Winner,5,Loser,3,Eliminated : 20, 0.04%
+Expected sample size required: 90, 0.19%
+Running test on instance Data_NA_Bankstown.raire
+Contest 1
+NEN,Winner,5,Loser,0,Eliminated,1,2,3,4 : 26, 0.06%
+NEB,Winner,5,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,5,Loser,1,Eliminated : 14, 0.03%
+NEB,Winner,5,Loser,4,Eliminated : 14, 0.03%
+NEB,Winner,5,Loser,2,Eliminated : 13, 0.03%
+Expected sample size required: 26, 0.06%
+Running test on instance Data_NA_Barwon.raire
+Contest 1
+NEN,Winner,4,Loser,1,Eliminated,0,2,3,5 : 31, 0.06%
+NEB,Winner,4,Loser,2,Eliminated : 31, 0.06%
+NEB,Winner,4,Loser,0,Eliminated : 20, 0.04%
+NEB,Winner,4,Loser,5,Eliminated : 17, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 18, 0.04%
+Expected sample size required: 31, 0.06%
+Running test on instance Data_NA_Bathurst.raire
+Contest 1
+NEB,Winner,2,Loser,1,Eliminated : 24, 0.05%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 13, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Baulkham_Hills.raire
+Contest 1
+NEB,Winner,0,Loser,4,Eliminated : 18, 0.04%
+NEB,Winner,0,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,2,Eliminated : 13, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Bega.raire
+Contest 1
+NEN,Winner,4,Loser,2,Eliminated,0,1,3 : 43, 0.09%
+NEB,Winner,4,Loser,1,Eliminated : 25, 0.05%
+NEB,Winner,4,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,4,Loser,0,Eliminated : 20, 0.04%
+Expected sample size required: 43, 0.09%
+Running test on instance Data_NA_Blacktown.raire
+Contest 1
+NEB,Winner,0,Loser,4,Eliminated : 33, 0.07%
+NEB,Winner,0,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,2,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 15, 0.03%
+Expected sample size required: 33, 0.07%
+Running test on instance Data_NA_Blue_Mountains.raire
+Contest 1
+NEN,Winner,0,Loser,2,Eliminated,1,3,4,5 : 44, 0.09%
+NEB,Winner,0,Loser,1,Eliminated : 32, 0.07%
+NEB,Winner,0,Loser,4,Eliminated : 20, 0.04%
+NEB,Winner,0,Loser,3,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,5,Eliminated : 19, 0.04%
+Expected sample size required: 44, 0.09%
+Running test on instance Data_NA_Cabramatta.raire
+Contest 1
+NEB,Winner,4,Loser,1,Eliminated : 23, 0.05%
+NEB,Winner,4,Loser,3,Eliminated : 13, 0.03%
+NEB,Winner,4,Loser,2,Eliminated : 13, 0.03%
+NEB,Winner,4,Loser,0,Eliminated : 13, 0.03%
+Expected sample size required: 23, 0.05%
+Running test on instance Data_NA_Camden.raire
+Contest 1
+NEN,Winner,2,Loser,4,Eliminated,0,1,3 : 20, 0.04%
+NEB,Winner,2,Loser,3,Eliminated : 13, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 14, 0.03%
+NEB,Winner,2,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_Campbelltown.raire
+Contest 1
+NEN,Winner,0,Loser,2,Eliminated,1,3,4 : 49, 0.11%
+NEB,Winner,0,Loser,3,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,1,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 16, 0.04%
+Expected sample size required: 49, 0.11%
+Running test on instance Data_NA_Canterbury.raire
+Contest 1
+NEN,Winner,2,Loser,4,Eliminated,0,1,3 : 24, 0.05%
+NEB,Winner,2,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,2,Loser,0,Eliminated : 19, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 16, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Castle_Hill.raire
+Contest 1
+NEB,Winner,1,Loser,3,Eliminated : 11, 0.02%
+NEB,Winner,1,Loser,2,Eliminated : 12, 0.02%
+NEB,Winner,1,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,1,Loser,0,Eliminated : 11, 0.02%
+Expected sample size required: 13, 0.03%
+Running test on instance Data_NA_Cessnock.raire
+Contest 1
+NEB,Winner,4,Loser,0,Eliminated : 18, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,2,Eliminated : 13, 0.03%
+NEB,Winner,4,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Charlestown.raire
+Contest 1
+NEN,Winner,2,Loser,5,Eliminated,0,1,3,4,6 : 30, 0.06%
+NEB,Winner,2,Loser,4,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,6,Eliminated : 19, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 17, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 20, 0.04%
+Expected sample size required: 30, 0.06%
+Running test on instance Data_NA_Clarence.raire
+Contest 1
+NEN,Winner,0,Loser,1,Eliminated,2,3,4,5,6,7 : 39, 0.08%
+NEB,Winner,0,Loser,5,Eliminated : 23, 0.05%
+NEB,Winner,0,Loser,4,Eliminated : 24, 0.05%
+NEB,Winner,0,Loser,2,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,7,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,6,Eliminated : 20, 0.04%
+NEB,Winner,0,Loser,3,Eliminated : 20, 0.04%
+Expected sample size required: 39, 0.08%
+Running test on instance Data_NA_Coffs_Harbour.raire
+Contest 1
+NEN,Winner,4,Loser,0,Eliminated,1,2,3 : 26, 0.06%
+NEB,Winner,4,Loser,3,Eliminated : 21, 0.05%
+NEB,Winner,4,Loser,1,Eliminated : 16, 0.04%
+NEB,Winner,4,Loser,2,Eliminated : 16, 0.04%
+Expected sample size required: 26, 0.06%
+Running test on instance Data_NA_Coogee.raire
+Contest 1
+NEN,Winner,3,Loser,0,Eliminated,1,2,4 : 123, 0.27%
+NEB,Winner,3,Loser,2,Eliminated : 60, 0.13%
+NEB,Winner,0,Loser,1,Eliminated : 26, 0.06%
+NEB,Winner,3,Loser,1,Eliminated : 23, 0.05%
+NEB,Winner,3,Loser,4,Eliminated : 20, 0.04%
+Expected sample size required: 123, 0.27%
+Running test on instance Data_NA_Cootamundra.raire
+Contest 1
+NEB,Winner,3,Loser,2,Eliminated : 18, 0.04%
+NEB,Winner,3,Loser,4,Eliminated : 12, 0.03%
+NEB,Winner,3,Loser,1,Eliminated : 13, 0.03%
+NEB,Winner,3,Loser,0,Eliminated : 12, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Cronulla.raire
+Contest 1
+NEB,Winner,0,Loser,2,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 19, 0.04%
+Expected sample size required: 19, 0.04%
+Running test on instance Data_NA_Davidson.raire
+Contest 1
+NEB,Winner,2,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,2,Loser,4,Eliminated : 14, 0.03%
+NEB,Winner,2,Loser,1,Eliminated : 11, 0.02%
+NEB,Winner,2,Loser,0,Eliminated : 11, 0.02%
+Expected sample size required: 14, 0.03%
+Running test on instance Data_NA_Drummoyne.raire
+Contest 1
+NEN,Winner,0,Loser,3,Eliminated,1,2,4,5 : 20, 0.04%
+NEB,Winner,0,Loser,2,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,5,Eliminated : 12, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_Dubbo.raire
+Contest 1
+NEB,Winner,0,Loser,2,Eliminated : 20, 0.04%
+NEB,Winner,0,Loser,6,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,5,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,3,Eliminated : 15, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 14, 0.03%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_East_Hills.raire
+Contest 1
+NEN,Winner,4,Loser,1,Eliminated,0,2,3 : 828, 1.75%
+NEB,Winner,4,Loser,3,Eliminated : 27, 0.06%
+NEB,Winner,4,Loser,2,Eliminated : 28, 0.06%
+NEB,Winner,4,Loser,0,Eliminated : 33, 0.07%
+NEB,Winner,1,Loser,2,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,0,Eliminated : 21, 0.04%
+NEB,Winner,1,Loser,3,Eliminated : 20, 0.04%
+Expected sample size required: 828, 1.75%
+Running test on instance Data_NA_Epping.raire
+Contest 1
+NEN,Winner,0,Loser,2,Eliminated,1,3,4,5 : 23, 0.05%
+NEB,Winner,0,Loser,3,Eliminated : 24, 0.05%
+NEB,Winner,0,Loser,1,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,5,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 16, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Fairfield.raire
+Contest 1
+NEB,Winner,1,Loser,3,Eliminated : 26, 0.06%
+NEB,Winner,1,Loser,2,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,0,Eliminated : 16, 0.03%
+NEB,Winner,1,Loser,4,Eliminated : 15, 0.03%
+Expected sample size required: 26, 0.06%
+Running test on instance Data_NA_Gosford.raire
+Contest 1
+NEN,Winner,3,Loser,1,Eliminated,0,2,4,5 : 1560, 3.23%
+NEB,Winner,3,Loser,4,Eliminated : 27, 0.06%
+NEB,Winner,3,Loser,5,Eliminated : 26, 0.05%
+NEB,Winner,1,Loser,2,Eliminated : 22, 0.05%
+NEB,Winner,3,Loser,0,Eliminated : 21, 0.04%
+NEB,Winner,3,Loser,2,Eliminated : 21, 0.04%
+Expected sample size required: 1560, 3.23%
+Running test on instance Data_NA_Goulburn.raire
+Contest 1
+NEN,Winner,1,Loser,5,Eliminated,0,2,3,4 : 55, 0.11%
+NEB,Winner,1,Loser,2,Eliminated : 27, 0.06%
+NEB,Winner,1,Loser,4,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,3,Eliminated : 21, 0.04%
+NEB,Winner,1,Loser,0,Eliminated : 25, 0.05%
+Expected sample size required: 55, 0.11%
+Running test on instance Data_NA_Granville.raire
+Contest 1
+NEN,Winner,2,Loser,3,Eliminated,0,1,4,5 : 179, 0.40%
+NEB,Winner,2,Loser,4,Eliminated : 31, 0.07%
+NEB,Winner,2,Loser,0,Eliminated : 21, 0.05%
+NEB,Winner,2,Loser,5,Eliminated : 20, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 20, 0.04%
+Expected sample size required: 179, 0.40%
+Running test on instance Data_NA_Hawkesbury.raire
+Contest 1
+NEB,Winner,1,Loser,0,Eliminated : 24, 0.05%
+NEB,Winner,1,Loser,6,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,5,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,4,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,2,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,7,Eliminated : 14, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Heathcote.raire
+Contest 1
+NEN,Winner,4,Loser,3,Eliminated,0,1,2,5 : 48, 0.09%
+NEB,Winner,4,Loser,5,Eliminated : 27, 0.05%
+NEB,Winner,4,Loser,2,Eliminated : 24, 0.05%
+NEB,Winner,4,Loser,1,Eliminated : 20, 0.04%
+NEB,Winner,4,Loser,0,Eliminated : 20, 0.04%
+Expected sample size required: 48, 0.09%
+Running test on instance Data_NA_Heffron.raire
+Contest 1
+NEN,Winner,1,Loser,4,Eliminated,0,2 : 28, 0.06%
+NEN,Winner,1,Loser,4,Eliminated,0,2,3 : 27, 0.06%
+NEN,Winner,1,Loser,3,Eliminated,0,2,4 : 27, 0.06%
+NEB,Winner,1,Loser,2,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,0,Eliminated : 18, 0.04%
+Expected sample size required: 28, 0.06%
+Running test on instance Data_NA_Holsworthy.raire
+Contest 1
+NEN,Winner,0,Loser,3,Eliminated,1,2,4,5 : 54, 0.11%
+NEB,Winner,0,Loser,1,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 20, 0.04%
+NEB,Winner,0,Loser,2,Eliminated : 20, 0.04%
+NEB,Winner,0,Loser,5,Eliminated : 19, 0.04%
+Expected sample size required: 54, 0.11%
+Running test on instance Data_NA_Hornsby.raire
+Contest 1
+NEB,Winner,1,Loser,5,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,4,Eliminated : 17, 0.03%
+NEB,Winner,1,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,2,Eliminated : 20, 0.04%
+NEN,Winner,1,Loser,0,Eliminated,2,3,4,5 : 20, 0.04%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_Keira.raire
+Contest 1
+NEN,Winner,3,Loser,1,Eliminated,0,2,4 : 21, 0.04%
+NEB,Winner,3,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,3,Loser,0,Eliminated : 15, 0.03%
+NEB,Winner,3,Loser,2,Eliminated : 15, 0.03%
+Expected sample size required: 21, 0.04%
+Running test on instance Data_NA_Kiama.raire
+Contest 1
+NEN,Winner,1,Loser,2,Eliminated,0,3,4 : 41, 0.09%
+NEB,Winner,1,Loser,4,Eliminated : 26, 0.05%
+NEB,Winner,1,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,1,Loser,0,Eliminated : 16, 0.03%
+Expected sample size required: 41, 0.09%
+Running test on instance Data_NA_Kogarah.raire
+Contest 1
+NEN,Winner,5,Loser,2,Eliminated,0,1,3,4 : 55, 0.12%
+NEB,Winner,5,Loser,0,Eliminated : 20, 0.04%
+NEB,Winner,5,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,5,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,5,Loser,1,Eliminated : 19, 0.04%
+Expected sample size required: 55, 0.12%
+Running test on instance Data_NA_Ku-ring-gai.raire
+Contest 1
+NEB,Winner,2,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,2,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 12, 0.02%
+NEB,Winner,2,Loser,0,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Lake_Macquarie.raire
+Contest 1
+NEN,Winner,1,Loser,3,Eliminated,0,2,4,5,6 : 37, 0.08%
+NEB,Winner,1,Loser,2,Eliminated : 28, 0.06%
+NEB,Winner,1,Loser,0,Eliminated : 24, 0.05%
+NEB,Winner,1,Loser,6,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,5,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,4,Eliminated : 18, 0.04%
+Expected sample size required: 37, 0.08%
+Running test on instance Data_NA_Lakemba.raire
+Contest 1
+NEB,Winner,0,Loser,3,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,1,Eliminated : 15, 0.03%
+NEN,Winner,0,Loser,2,Eliminated,1,3,4 : 18, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Lane_Cove.raire
+Contest 1
+NEB,Winner,4,Loser,5,Eliminated : 24, 0.05%
+NEB,Winner,4,Loser,3,Eliminated : 21, 0.04%
+NEB,Winner,4,Loser,2,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,1,Eliminated : 17, 0.03%
+NEB,Winner,4,Loser,0,Eliminated : 13, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Lismore.raire
+Contest 1
+NEN,Winner,0,Loser,3,Eliminated,1,4,5 : 744, 1.58%
+NEB,Winner,2,Loser,0,Eliminated : 466, 0.99%
+NEB,Winner,2,Loser,5,Eliminated : 57, 0.12%
+NEB,Winner,2,Loser,1,Eliminated : 53, 0.11%
+NEB,Winner,2,Loser,4,Eliminated : 50, 0.11%
+NEB,Winner,0,Loser,5,Eliminated : 34, 0.07%
+NEB,Winner,0,Loser,4,Eliminated : 38, 0.08%
+NEB,Winner,0,Loser,1,Eliminated : 35, 0.07%
+NEB,Winner,3,Loser,5,Eliminated : 37, 0.08%
+NEB,Winner,3,Loser,4,Eliminated : 37, 0.08%
+NEB,Winner,3,Loser,1,Eliminated : 36, 0.08%
+Expected sample size required: 744, 1.58%
+Running test on instance Data_NA_Liverpool.raire
+Contest 1
+NEB,Winner,3,Loser,1,Eliminated : 20, 0.04%
+NEB,Winner,3,Loser,0,Eliminated : 14, 0.03%
+NEB,Winner,3,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,3,Loser,2,Eliminated : 13, 0.03%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_Londonderry.raire
+Contest 1
+NEN,Winner,1,Loser,3,Eliminated,0,2,4 : 41, 0.09%
+NEB,Winner,1,Loser,2,Eliminated : 16, 0.03%
+NEB,Winner,1,Loser,4,Eliminated : 16, 0.03%
+NEB,Winner,1,Loser,0,Eliminated : 17, 0.04%
+Expected sample size required: 41, 0.09%
+Running test on instance Data_NA_Macquarie_Fields.raire
+Contest 1
+NEN,Winner,2,Loser,1,Eliminated,0,3,4,5,6 : 45, 0.10%
+NEB,Winner,2,Loser,5,Eliminated : 15, 0.03%
+NEB,Winner,2,Loser,4,Eliminated : 15, 0.03%
+NEB,Winner,2,Loser,3,Eliminated : 15, 0.03%
+NEB,Winner,2,Loser,6,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 16, 0.03%
+Expected sample size required: 45, 0.10%
+Running test on instance Data_NA_Maitland.raire
+Contest 1
+NEN,Winner,1,Loser,0,Eliminated,2,3,4,5 : 40, 0.08%
+NEN,Winner,1,Loser,0,Eliminated,3,4,5 : 33, 0.07%
+NEN,Winner,1,Loser,2,Eliminated,0,3,4,5 : 29, 0.06%
+NEB,Winner,1,Loser,3,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,5,Eliminated : 19, 0.04%
+NEB,Winner,1,Loser,4,Eliminated : 19, 0.04%
+Expected sample size required: 40, 0.08%
+Running test on instance Data_NA_Manly.raire
+Contest 1
+NEB,Winner,0,Loser,1,Eliminated : 15, 0.03%
+NEB,Winner,0,Loser,2,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,3,Eliminated : 12, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 11, 0.02%
+Expected sample size required: 15, 0.03%
+Running test on instance Data_NA_Maroubra.raire
+Contest 1
+NEN,Winner,0,Loser,3,Eliminated,1,2,4 : 33, 0.07%
+NEB,Winner,0,Loser,4,Eliminated : 15, 0.03%
+NEB,Winner,0,Loser,2,Eliminated : 15, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 17, 0.04%
+Expected sample size required: 33, 0.07%
+Running test on instance Data_NA_Miranda.raire
+Contest 1
+NEB,Winner,5,Loser,3,Eliminated : 31, 0.06%
+NEB,Winner,5,Loser,4,Eliminated : 18, 0.04%
+NEB,Winner,5,Loser,2,Eliminated : 17, 0.03%
+NEB,Winner,5,Loser,1,Eliminated : 19, 0.04%
+NEB,Winner,5,Loser,0,Eliminated : 17, 0.03%
+Expected sample size required: 31, 0.06%
+Running test on instance Data_NA_Monaro.raire
+Contest 1
+NEN,Winner,2,Loser,0,Eliminated,1,3,4 : 136, 0.29%
+NEB,Winner,2,Loser,1,Eliminated : 28, 0.06%
+NEB,Winner,0,Loser,1,Eliminated : 24, 0.05%
+NEB,Winner,0,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 20, 0.04%
+NEB,Winner,2,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+Expected sample size required: 136, 0.29%
+Running test on instance Data_NA_Mount_Druitt.raire
+Contest 1
+NEB,Winner,0,Loser,2,Eliminated : 27, 0.06%
+NEB,Winner,0,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,4,Eliminated : 14, 0.03%
+Expected sample size required: 27, 0.06%
+Running test on instance Data_NA_Mulgoa.raire
+Contest 1
+NEN,Winner,3,Loser,0,Eliminated,1,2,4 : 37, 0.08%
+NEB,Winner,3,Loser,2,Eliminated : 18, 0.04%
+NEB,Winner,3,Loser,1,Eliminated : 18, 0.04%
+NEB,Winner,3,Loser,4,Eliminated : 15, 0.03%
+Expected sample size required: 37, 0.08%
+Running test on instance Data_NA_Murray.raire
+Contest 1
+NEB,Winner,4,Loser,1,Eliminated : 19, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,2,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,0,Eliminated : 15, 0.03%
+NEN,Winner,4,Loser,5,Eliminated,0,1,2,3,6,7 : 18, 0.04%
+NEB,Winner,4,Loser,7,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,6,Eliminated : 13, 0.03%
+Expected sample size required: 19, 0.04%
+Running test on instance Data_NA_Myall_Lakes.raire
+Contest 1
+NEN,Winner,5,Loser,4,Eliminated,0,1,2,3 : 44, 0.09%
+NEB,Winner,5,Loser,2,Eliminated : 39, 0.08%
+NEB,Winner,5,Loser,3,Eliminated : 22, 0.05%
+NEB,Winner,5,Loser,1,Eliminated : 26, 0.05%
+NEB,Winner,5,Loser,0,Eliminated : 21, 0.04%
+Expected sample size required: 44, 0.09%
+Running test on instance Data_NA_Newcastle.raire
+Contest 1
+NEN,Winner,6,Loser,3,Eliminated,0,1,2,4,5 : 51, 0.11%
+NEB,Winner,6,Loser,0,Eliminated : 38, 0.08%
+NEB,Winner,6,Loser,5,Eliminated : 21, 0.04%
+NEB,Winner,6,Loser,4,Eliminated : 20, 0.04%
+NEB,Winner,6,Loser,2,Eliminated : 20, 0.04%
+NEB,Winner,6,Loser,1,Eliminated : 19, 0.04%
+Expected sample size required: 51, 0.11%
+Running test on instance Data_NA_Newtown.raire
+Contest 1
+NEN,Winner,0,Loser,6,Eliminated,1,2,3,4,5 : 43, 0.09%
+NEB,Winner,0,Loser,3,Eliminated : 27, 0.06%
+NEB,Winner,0,Loser,5,Eliminated : 16, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,2,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,1,Eliminated : 17, 0.04%
+Expected sample size required: 43, 0.09%
+Running test on instance Data_NA_North_Shore.raire
+Contest 1
+NEB,Winner,5,Loser,2,Eliminated : 20, 0.04%
+NEB,Winner,5,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,5,Loser,0,Eliminated : 15, 0.03%
+NEN,Winner,5,Loser,1,Eliminated,0,2,3,4,6 : 18, 0.04%
+NEB,Winner,5,Loser,6,Eliminated : 13, 0.03%
+NEB,Winner,5,Loser,4,Eliminated : 14, 0.03%
+Expected sample size required: 20, 0.04%
+Running test on instance Data_NA_Northern_Tablelands.raire
+Contest 1
+NEB,Winner,3,Loser,5,Eliminated : 15, 0.03%
+NEB,Winner,3,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,3,Loser,2,Eliminated : 12, 0.02%
+NEB,Winner,3,Loser,1,Eliminated : 13, 0.03%
+NEB,Winner,3,Loser,0,Eliminated : 12, 0.02%
+Expected sample size required: 15, 0.03%
+Running test on instance Data_NA_Oatley.raire
+Contest 1
+NEN,Winner,0,Loser,3,Eliminated,1,2,4 : 53, 0.11%
+NEB,Winner,0,Loser,2,Eliminated : 25, 0.05%
+NEB,Winner,0,Loser,1,Eliminated : 21, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 16, 0.03%
+Expected sample size required: 53, 0.11%
+Running test on instance Data_NA_Orange.raire
+Contest 1
+NEB,Winner,3,Loser,0,Eliminated : 18, 0.04%
+NEB,Winner,3,Loser,1,Eliminated : 14, 0.03%
+NEB,Winner,3,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,3,Loser,2,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Oxley.raire
+Contest 1
+NEB,Winner,0,Loser,2,Eliminated : 39, 0.08%
+NEB,Winner,0,Loser,4,Eliminated : 25, 0.05%
+NEB,Winner,0,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,0,Loser,1,Eliminated : 18, 0.04%
+Expected sample size required: 39, 0.08%
+Running test on instance Data_NA_Parramatta.raire
+Contest 1
+NEB,Winner,2,Loser,5,Eliminated : 33, 0.07%
+NEB,Winner,2,Loser,4,Eliminated : 20, 0.04%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,6,Eliminated : 17, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 16, 0.03%
+Expected sample size required: 33, 0.07%
+Running test on instance Data_NA_Penrith.raire
+Contest 1
+NEN,Winner,5,Loser,6,Eliminated,0,1,2,3,4,7 : 61, 0.13%
+NEB,Winner,5,Loser,2,Eliminated : 26, 0.05%
+NEB,Winner,5,Loser,1,Eliminated : 24, 0.05%
+NEB,Winner,5,Loser,7,Eliminated : 17, 0.04%
+NEB,Winner,5,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,5,Loser,3,Eliminated : 17, 0.04%
+NEB,Winner,5,Loser,0,Eliminated : 18, 0.04%
+Expected sample size required: 61, 0.13%
+Running test on instance Data_NA_Pittwater.raire
+Contest 1
+NEB,Winner,4,Loser,2,Eliminated : 15, 0.03%
+NEB,Winner,4,Loser,3,Eliminated : 14, 0.03%
+NEB,Winner,4,Loser,1,Eliminated : 12, 0.02%
+NEB,Winner,4,Loser,0,Eliminated : 11, 0.02%
+Expected sample size required: 15, 0.03%
+Running test on instance Data_NA_Port_Macquarie.raire
+Contest 1
+NEB,Winner,1,Loser,4,Eliminated : 16, 0.03%
+NEB,Winner,1,Loser,0,Eliminated : 14, 0.03%
+NEB,Winner,1,Loser,2,Eliminated : 14, 0.03%
+NEN,Winner,1,Loser,3,Eliminated,0,2,4 : 19, 0.04%
+Expected sample size required: 19, 0.04%
+Running test on instance Data_NA_Port_Stephens.raire
+Contest 1
+NEN,Winner,2,Loser,3,Eliminated,0,1,4 : 75, 0.16%
+NEB,Winner,2,Loser,4,Eliminated : 18, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 17, 0.04%
+NEB,Winner,2,Loser,0,Eliminated : 17, 0.04%
+Expected sample size required: 75, 0.16%
+Running test on instance Data_NA_Prospect.raire
+Contest 1
+NEN,Winner,2,Loser,1,Eliminated,0,3,4 : 107, 0.23%
+NEB,Winner,2,Loser,4,Eliminated : 22, 0.05%
+NEB,Winner,2,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,2,Loser,0,Eliminated : 20, 0.04%
+Expected sample size required: 107, 0.23%
+Running test on instance Data_NA_Riverstone.raire
+Contest 1
+NEB,Winner,3,Loser,2,Eliminated : 33, 0.07%
+NEB,Winner,3,Loser,1,Eliminated : 16, 0.03%
+NEB,Winner,3,Loser,0,Eliminated : 15, 0.03%
+NEB,Winner,3,Loser,4,Eliminated : 14, 0.03%
+Expected sample size required: 33, 0.07%
+Running test on instance Data_NA_Rockdale.raire
+Contest 1
+NEN,Winner,4,Loser,0,Eliminated,1,2,3,5 : 77, 0.17%
+NEB,Winner,4,Loser,5,Eliminated : 17, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,4,Loser,2,Eliminated : 18, 0.04%
+NEB,Winner,4,Loser,1,Eliminated : 17, 0.04%
+Expected sample size required: 77, 0.17%
+Running test on instance Data_NA_Ryde.raire
+Contest 1
+NEN,Winner,1,Loser,0,Eliminated,2,3,4 : 31, 0.06%
+NEB,Winner,1,Loser,4,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,3,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,2,Eliminated : 17, 0.04%
+Expected sample size required: 31, 0.06%
+Running test on instance Data_NA_Seven_Hills.raire
+Contest 1
+NEN,Winner,2,Loser,5,Eliminated,0,1,3,4,6 : 42, 0.09%
+NEB,Winner,2,Loser,0,Eliminated : 22, 0.05%
+NEB,Winner,2,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,2,Loser,3,Eliminated : 19, 0.04%
+NEB,Winner,2,Loser,6,Eliminated : 19, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 17, 0.04%
+Expected sample size required: 42, 0.09%
+Running test on instance Data_NA_Shellharbour.raire
+Contest 1
+NEN,Winner,2,Loser,5,Eliminated,0,1,3,4,6 : 23, 0.05%
+NEB,Winner,2,Loser,6,Eliminated : 15, 0.03%
+NEB,Winner,2,Loser,4,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 17, 0.03%
+NEB,Winner,2,Loser,1,Eliminated : 15, 0.03%
+Expected sample size required: 23, 0.05%
+Running test on instance Data_NA_South_Coast.raire
+Contest 1
+NEN,Winner,3,Loser,2,Eliminated,0,1,4 : 38, 0.08%
+NEB,Winner,3,Loser,0,Eliminated : 25, 0.05%
+NEB,Winner,3,Loser,1,Eliminated : 16, 0.03%
+NEB,Winner,3,Loser,4,Eliminated : 15, 0.03%
+Expected sample size required: 38, 0.08%
+Running test on instance Data_NA_Strathfield.raire
+Contest 1
+NEN,Winner,2,Loser,4,Eliminated,0,1,3 : 200, 0.43%
+NEB,Winner,2,Loser,0,Eliminated : 23, 0.05%
+NEB,Winner,2,Loser,3,Eliminated : 20, 0.04%
+NEB,Winner,2,Loser,1,Eliminated : 19, 0.04%
+Expected sample size required: 200, 0.43%
+Running test on instance Data_NA_Summer_Hill.raire
+Contest 1
+NEN,Winner,0,Loser,2,Eliminated,1,3,4,5,6 : 41, 0.09%
+NEB,Winner,0,Loser,3,Eliminated : 38, 0.08%
+NEB,Winner,0,Loser,5,Eliminated : 17, 0.04%
+NEB,Winner,0,Loser,4,Eliminated : 18, 0.04%
+NEB,Winner,0,Loser,1,Eliminated : 18, 0.04%
+NEB,Winner,0,Loser,6,Eliminated : 18, 0.04%
+Expected sample size required: 41, 0.09%
+Running test on instance Data_NA_Swansea.raire
+Contest 1
+NEN,Winner,6,Loser,1,Eliminated,0,2,3,4,5,7 : 32, 0.07%
+NEB,Winner,6,Loser,5,Eliminated : 26, 0.05%
+NEB,Winner,6,Loser,7,Eliminated : 19, 0.04%
+NEB,Winner,6,Loser,2,Eliminated : 18, 0.04%
+NEB,Winner,6,Loser,4,Eliminated : 17, 0.04%
+NEB,Winner,6,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,6,Loser,0,Eliminated : 18, 0.04%
+Expected sample size required: 32, 0.07%
+Running test on instance Data_NA_Sydney.raire
+Contest 1
+NEN,Winner,1,Loser,3,Eliminated,0,2,4,5,6,7 : 50, 0.12%
+NEB,Winner,1,Loser,0,Eliminated : 32, 0.07%
+NEB,Winner,1,Loser,5,Eliminated : 26, 0.06%
+NEB,Winner,1,Loser,7,Eliminated : 18, 0.04%
+NEB,Winner,1,Loser,6,Eliminated : 19, 0.04%
+NEB,Winner,1,Loser,4,Eliminated : 18, 0.04%
+NEB,Winner,1,Loser,2,Eliminated : 19, 0.04%
+Expected sample size required: 50, 0.12%
+Running test on instance Data_NA_Tamworth.raire
+Contest 1
+NEB,Winner,5,Loser,0,Eliminated : 39, 0.08%
+NEB,Winner,5,Loser,4,Eliminated : 15, 0.03%
+NEB,Winner,5,Loser,3,Eliminated : 18, 0.04%
+NEB,Winner,5,Loser,2,Eliminated : 15, 0.03%
+NEB,Winner,5,Loser,1,Eliminated : 16, 0.03%
+NEB,Winner,5,Loser,6,Eliminated : 15, 0.03%
+Expected sample size required: 39, 0.08%
+Running test on instance Data_NA_Terrigal.raire
+Contest 1
+NEN,Winner,1,Loser,2,Eliminated,0,3,4 : 40, 0.08%
+NEB,Winner,1,Loser,3,Eliminated : 26, 0.05%
+NEB,Winner,1,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,1,Loser,0,Eliminated : 18, 0.04%
+Expected sample size required: 40, 0.08%
+Running test on instance Data_NA_The_Entrance.raire
+Contest 1
+NEN,Winner,3,Loser,0,Eliminated,1,2,4 : 927, 1.93%
+NEB,Winner,3,Loser,2,Eliminated : 24, 0.05%
+NEB,Winner,3,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,3,Loser,1,Eliminated : 20, 0.04%
+Expected sample size required: 927, 1.93%
+Running test on instance Data_NA_Tweed.raire
+Contest 1
+NEN,Winner,2,Loser,1,Eliminated,0,3,4 : 113, 0.26%
+NEB,Winner,2,Loser,4,Eliminated : 41, 0.09%
+NEB,Winner,2,Loser,0,Eliminated : 29, 0.07%
+NEB,Winner,1,Loser,3,Eliminated : 22, 0.05%
+NEB,Winner,1,Loser,0,Eliminated : 23, 0.05%
+NEB,Winner,2,Loser,3,Eliminated : 25, 0.06%
+Expected sample size required: 113, 0.26%
+Running test on instance Data_NA_Upper_Hunter.raire
+Contest 1
+NEN,Winner,5,Loser,4,Eliminated,0,1,2,3 : 180, 0.38%
+NEB,Winner,5,Loser,0,Eliminated : 97, 0.21%
+NEB,Winner,5,Loser,3,Eliminated : 28, 0.06%
+NEB,Winner,4,Loser,3,Eliminated : 32, 0.07%
+NEB,Winner,5,Loser,2,Eliminated : 23, 0.05%
+NEB,Winner,5,Loser,1,Eliminated : 24, 0.05%
+Expected sample size required: 180, 0.38%
+Running test on instance Data_NA_Vaucluse.raire
+Contest 1
+NEB,Winner,4,Loser,1,Eliminated : 16, 0.03%
+NEB,Winner,4,Loser,0,Eliminated : 17, 0.04%
+NEB,Winner,4,Loser,3,Eliminated : 11, 0.02%
+NEB,Winner,4,Loser,2,Eliminated : 13, 0.03%
+Expected sample size required: 17, 0.04%
+Running test on instance Data_NA_Wagga_Wagga.raire
+Contest 1
+NEN,Winner,5,Loser,0,Eliminated,1,2,3,4 : 29, 0.06%
+NEB,Winner,5,Loser,3,Eliminated : 22, 0.05%
+NEB,Winner,5,Loser,4,Eliminated : 19, 0.04%
+NEB,Winner,5,Loser,2,Eliminated : 17, 0.04%
+NEB,Winner,5,Loser,1,Eliminated : 17, 0.04%
+Expected sample size required: 29, 0.06%
+Running test on instance Data_NA_Wakehurst.raire
+Contest 1
+NEB,Winner,2,Loser,5,Eliminated : 15, 0.03%
+NEB,Winner,2,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,2,Loser,4,Eliminated : 13, 0.03%
+NEB,Winner,2,Loser,1,Eliminated : 12, 0.03%
+NEB,Winner,2,Loser,0,Eliminated : 12, 0.03%
+Expected sample size required: 16, 0.03%
+Running test on instance Data_NA_Wallsend.raire
+Contest 1
+NEB,Winner,2,Loser,3,Eliminated : 15, 0.03%
+NEN,Winner,2,Loser,4,Eliminated,0,1,3 : 18, 0.04%
+NEB,Winner,2,Loser,0,Eliminated : 13, 0.03%
+NEB,Winner,2,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 18, 0.04%
+Running test on instance Data_NA_Willoughby.raire
+Contest 1
+NEB,Winner,3,Loser,2,Eliminated : 17, 0.04%
+NEB,Winner,3,Loser,0,Eliminated : 17, 0.04%
+NEB,Winner,3,Loser,4,Eliminated : 12, 0.03%
+NEB,Winner,3,Loser,5,Eliminated : 12, 0.03%
+NEB,Winner,3,Loser,1,Eliminated : 13, 0.03%
+Expected sample size required: 17, 0.04%
+Running test on instance Data_NA_Wollondilly.raire
+Contest 1
+NEB,Winner,1,Loser,4,Eliminated : 24, 0.05%
+NEB,Winner,1,Loser,3,Eliminated : 17, 0.04%
+NEB,Winner,1,Loser,2,Eliminated : 18, 0.04%
+NEB,Winner,1,Loser,5,Eliminated : 16, 0.03%
+NEB,Winner,1,Loser,0,Eliminated : 15, 0.03%
+Expected sample size required: 24, 0.05%
+Running test on instance Data_NA_Wollongong.raire
+Contest 1
+NEN,Winner,5,Loser,3,Eliminated,0,1,2,4,6 : 49, 0.10%
+NEB,Winner,5,Loser,6,Eliminated : 30, 0.06%
+NEN,Winner,5,Loser,1,Eliminated,0,2,4,6 : 33, 0.07%
+NEN,Winner,5,Loser,1,Eliminated,0,2,3,4,6 : 32, 0.06%
+NEB,Winner,5,Loser,4,Eliminated : 23, 0.05%
+NEB,Winner,5,Loser,2,Eliminated : 23, 0.05%
+NEB,Winner,5,Loser,0,Eliminated : 24, 0.05%
+Expected sample size required: 49, 0.10%
+Running test on instance Data_NA_Wyong.raire
+Contest 1
+NEN,Winner,0,Loser,4,Eliminated,1,2,3,5,6 : 41, 0.09%
+NEB,Winner,0,Loser,5,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,3,Eliminated : 16, 0.03%
+NEB,Winner,0,Loser,2,Eliminated : 14, 0.03%
+NEB,Winner,0,Loser,1,Eliminated : 15, 0.03%
+NEB,Winner,0,Loser,6,Eliminated : 15, 0.03%
+Expected sample size required: 41, 0.09%
+Running test on instance SanFran_2007
+Contest 1
+NEB,Winner,7,Loser,15,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,14,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,13,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,12,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,11,Eliminated : 11, 0.01%
+NEB,Winner,7,Loser,10,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,9,Eliminated : 11, 0.01%
+NEB,Winner,7,Loser,8,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,17,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,6,Eliminated : 11, 0.01%
+NEB,Winner,7,Loser,5,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,4,Eliminated : 11, 0.01%
+NEB,Winner,7,Loser,3,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,2,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,1,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,0,Eliminated : 10, 0.01%
+NEB,Winner,7,Loser,16,Eliminated : 10, 0.01%
+Expected sample size required: 11, 0.01%
+Running test on instance Aspen_2009_wrong_winner
+Contest 1
+No audit possible
+Contest 2
+No audit possible
