@@ -1,199 +1,199 @@
-RaireData/Input/NSW15/Albury.raire,contest 1,simple audit,28,RAIRE,28
+RaireData/Input/NSW15/Albury.raire,contest 1,simple audit,41,RAIRE,28
 RaireData/Input/NSW15/Auburn.raire,contest 1,simple audit,74,RAIRE,74
-RaireData/Input/NSW15/Ballina.raire,contest 1,simple audit,2712,RAIRE,155
-RaireData/Input/NSW15/Balmain.raire,contest 1,simple audit,127,RAIRE,99
-RaireData/Input/NSW15/Bankstown.raire,contest 1,simple audit,29,RAIRE,29
-RaireData/Input/NSW15/Barwon.raire,contest 1,simple audit,145,RAIRE,33
-RaireData/Input/NSW15/Bathurst.raire,contest 1,simple audit,40,RAIRE,23
-RaireData/Input/NSW15/Baulkham_Hills.raire,contest 1,simple audit,53,RAIRE,17
+RaireData/Input/NSW15/Ballina.raire,contest 1, no simple audit,, RAIRE,155
+RaireData/Input/NSW15/Balmain.raire,contest 1,simple audit,235,RAIRE,99
+RaireData/Input/NSW15/Bankstown.raire,contest 1,simple audit,44,RAIRE,29
+RaireData/Input/NSW15/Barwon.raire,contest 1, no simple audit,, RAIRE,33
+RaireData/Input/NSW15/Bathurst.raire,contest 1,simple audit,61,RAIRE,23
+RaireData/Input/NSW15/Baulkham_Hills.raire,contest 1,simple audit,85,RAIRE,17
 RaireData/Input/NSW15/Bega.raire,contest 1,simple audit,47,RAIRE,47
-RaireData/Input/NSW15/Blacktown.raire,contest 1,simple audit,31,RAIRE,30
-RaireData/Input/NSW15/Blue_Mountains.raire,contest 1,simple audit,48,RAIRE,48
-RaireData/Input/NSW15/Cabramatta.raire,contest 1,simple audit,33,RAIRE,22
-RaireData/Input/NSW15/Camden.raire,contest 1,simple audit,34,RAIRE,20
-RaireData/Input/NSW15/Campbelltown.raire,contest 1,simple audit,54,RAIRE,54
-RaireData/Input/NSW15/Canterbury.raire,contest 1,simple audit,50,RAIRE,27
-RaireData/Input/NSW15/Castle_Hill.raire,contest 1,simple audit,90,RAIRE,12
-RaireData/Input/NSW15/Cessnock.raire,contest 1,simple audit,53,RAIRE,18
-RaireData/Input/NSW15/Charlestown.raire,contest 1,simple audit,42,RAIRE,32
-RaireData/Input/NSW15/Clarence.raire,contest 1,simple audit,42,RAIRE,42
-RaireData/Input/NSW15/Coffs_Harbour.raire,contest 1,simple audit,62,RAIRE,27
+RaireData/Input/NSW15/Blacktown.raire,contest 1,simple audit,59,RAIRE,30
+RaireData/Input/NSW15/Blue_Mountains.raire,contest 1, no simple audit,, RAIRE,48
+RaireData/Input/NSW15/Cabramatta.raire,contest 1,simple audit,81,RAIRE,22
+RaireData/Input/NSW15/Camden.raire,contest 1,simple audit,43,RAIRE,20
+RaireData/Input/NSW15/Campbelltown.raire,contest 1,simple audit,55,RAIRE,54
+RaireData/Input/NSW15/Canterbury.raire,contest 1, no simple audit,, RAIRE,27
+RaireData/Input/NSW15/Castle_Hill.raire,contest 1,simple audit,241,RAIRE,12
+RaireData/Input/NSW15/Cessnock.raire,contest 1,simple audit,130,RAIRE,18
+RaireData/Input/NSW15/Charlestown.raire,contest 1,simple audit,174,RAIRE,32
+RaireData/Input/NSW15/Clarence.raire,contest 1,simple audit,57,RAIRE,42
+RaireData/Input/NSW15/Coffs_Harbour.raire,contest 1,simple audit,104,RAIRE,27
 RaireData/Input/NSW15/Coogee.raire,contest 1,simple audit,137,RAIRE,137
-RaireData/Input/NSW15/Cootamundra.raire,contest 1,simple audit,33,RAIRE,17
-RaireData/Input/NSW15/Cronulla.raire,contest 1,simple audit,61,RAIRE,18
+RaireData/Input/NSW15/Cootamundra.raire,contest 1,simple audit,64,RAIRE,17
+RaireData/Input/NSW15/Cronulla.raire,contest 1,simple audit,93,RAIRE,18
 RaireData/Input/NSW15/Davidson.raire,contest 1, no simple audit,, RAIRE,13
-RaireData/Input/NSW15/Drummoyne.raire,contest 1,simple audit,61,RAIRE,20
-RaireData/Input/NSW15/Dubbo.raire,contest 1,simple audit,43,RAIRE,19
+RaireData/Input/NSW15/Drummoyne.raire,contest 1,simple audit,104,RAIRE,20
+RaireData/Input/NSW15/Dubbo.raire,contest 1,simple audit,129,RAIRE,19
 RaireData/Input/NSW15/East_Hills.raire,contest 1,simple audit,1384,RAIRE,1384
-RaireData/Input/NSW15/Epping.raire,contest 1,simple audit,256,RAIRE,24
-RaireData/Input/NSW15/Fairfield.raire,contest 1,simple audit,62,RAIRE,24
+RaireData/Input/NSW15/Epping.raire,contest 1, no simple audit,, RAIRE,24
+RaireData/Input/NSW15/Fairfield.raire,contest 1,simple audit,157,RAIRE,24
 RaireData/Input/NSW15/Gosford.raire,contest 1,simple audit,3850,RAIRE,3850
 RaireData/Input/NSW15/Goulburn.raire,contest 1,simple audit,60,RAIRE,60
 RaireData/Input/NSW15/Granville.raire,contest 1,simple audit,206,RAIRE,206
-RaireData/Input/NSW15/Hawkesbury.raire,contest 1,simple audit,61,RAIRE,23
+RaireData/Input/NSW15/Hawkesbury.raire,contest 1,simple audit,81,RAIRE,23
 RaireData/Input/NSW15/Heathcote.raire,contest 1,simple audit,53,RAIRE,53
-RaireData/Input/NSW15/Heffron.raire,contest 1,simple audit,92,RAIRE,30
+RaireData/Input/NSW15/Heffron.raire,contest 1, no simple audit,, RAIRE,30
 RaireData/Input/NSW15/Holsworthy.raire,contest 1,simple audit,61,RAIRE,61
-RaireData/Input/NSW15/Hornsby.raire,contest 1,simple audit,195,RAIRE,20
-RaireData/Input/NSW15/Keira.raire,contest 1,simple audit,56,RAIRE,22
+RaireData/Input/NSW15/Hornsby.raire,contest 1, no simple audit,, RAIRE,20
+RaireData/Input/NSW15/Keira.raire,contest 1,simple audit,1093,RAIRE,22
 RaireData/Input/NSW15/Kiama.raire,contest 1,simple audit,44,RAIRE,44
 RaireData/Input/NSW15/Kogarah.raire,contest 1,simple audit,63,RAIRE,63
 RaireData/Input/NSW15/Ku-ring-gai.raire,contest 1, no simple audit,, RAIRE,16
-RaireData/Input/NSW15/Lake_Macquarie.raire,contest 1,simple audit,59,RAIRE,41
-RaireData/Input/NSW15/Lakemba.raire,contest 1,simple audit,112,RAIRE,20
-RaireData/Input/NSW15/Lane_Cove.raire,contest 1,simple audit,215,RAIRE,22
+RaireData/Input/NSW15/Lake_Macquarie.raire,contest 1,simple audit,105,RAIRE,41
+RaireData/Input/NSW15/Lakemba.raire,contest 1, no simple audit,, RAIRE,20
+RaireData/Input/NSW15/Lane_Cove.raire,contest 1, no simple audit,, RAIRE,22
 RaireData/Input/NSW15/Lismore.raire,contest 1, no simple audit,, RAIRE,1132
-RaireData/Input/NSW15/Liverpool.raire,contest 1,simple audit,52,RAIRE,19
-RaireData/Input/NSW15/Londonderry.raire,contest 1,simple audit,46,RAIRE,46
+RaireData/Input/NSW15/Liverpool.raire,contest 1,simple audit,107,RAIRE,19
+RaireData/Input/NSW15/Londonderry.raire,contest 1,simple audit,61,RAIRE,46
 RaireData/Input/NSW15/Macquarie_Fields.raire,contest 1,simple audit,50,RAIRE,50
 RaireData/Input/NSW15/Maitland.raire,contest 1, no simple audit,, RAIRE,43
-RaireData/Input/NSW15/Manly.raire,contest 1,simple audit,193,RAIRE,15
-RaireData/Input/NSW15/Maroubra.raire,contest 1,simple audit,35,RAIRE,35
-RaireData/Input/NSW15/Miranda.raire,contest 1,simple audit,33,RAIRE,30
+RaireData/Input/NSW15/Manly.raire,contest 1, no simple audit,, RAIRE,15
+RaireData/Input/NSW15/Maroubra.raire,contest 1,simple audit,48,RAIRE,35
+RaireData/Input/NSW15/Miranda.raire,contest 1,simple audit,40,RAIRE,30
 RaireData/Input/NSW15/Monaro.raire,contest 1,simple audit,152,RAIRE,152
-RaireData/Input/NSW15/Mount_Druitt.raire,contest 1,simple audit,32,RAIRE,26
+RaireData/Input/NSW15/Mount_Druitt.raire,contest 1,simple audit,53,RAIRE,26
 RaireData/Input/NSW15/Mulgoa.raire,contest 1,simple audit,41,RAIRE,41
-RaireData/Input/NSW15/Murray.raire,contest 1,simple audit,Full Recount,RAIRE,19
-RaireData/Input/NSW15/Myall_Lakes.raire,contest 1,simple audit,70,RAIRE,48
-RaireData/Input/NSW15/Newcastle.raire,contest 1,simple audit,56,RAIRE,56
-RaireData/Input/NSW15/Newtown.raire,contest 1,simple audit,61,RAIRE,46
+RaireData/Input/NSW15/Murray.raire,contest 1, no simple audit,, RAIRE,19
+RaireData/Input/NSW15/Myall_Lakes.raire,contest 1,simple audit,215,RAIRE,48
+RaireData/Input/NSW15/Newcastle.raire,contest 1,simple audit,1149,RAIRE,56
+RaireData/Input/NSW15/Newtown.raire,contest 1,simple audit,73,RAIRE,46
 RaireData/Input/NSW15/North_Shore.raire,contest 1, no simple audit,, RAIRE,19
-RaireData/Input/NSW15/Northern_Tablelands.raire,contest 1,simple audit,116,RAIRE,13
+RaireData/Input/NSW15/Northern_Tablelands.raire,contest 1, no simple audit,, RAIRE,13
 RaireData/Input/NSW15/Oatley.raire,contest 1,simple audit,59,RAIRE,59
-RaireData/Input/NSW15/Orange.raire,contest 1,simple audit,45,RAIRE,16
-RaireData/Input/NSW15/Oxley.raire,contest 1,simple audit,67,RAIRE,36
-RaireData/Input/NSW15/Parramatta.raire,contest 1,simple audit,38,RAIRE,31
+RaireData/Input/NSW15/Orange.raire,contest 1,simple audit,79,RAIRE,16
+RaireData/Input/NSW15/Oxley.raire,contest 1,simple audit,99,RAIRE,36
+RaireData/Input/NSW15/Parramatta.raire,contest 1,simple audit,48,RAIRE,31
 RaireData/Input/NSW15/Penrith.raire,contest 1,simple audit,69,RAIRE,69
-RaireData/Input/NSW15/Pittwater.raire,contest 1,simple audit,270,RAIRE,14
-RaireData/Input/NSW15/Port_Macquarie.raire,contest 1,simple audit,49,RAIRE,19
+RaireData/Input/NSW15/Pittwater.raire,contest 1, no simple audit,, RAIRE,14
+RaireData/Input/NSW15/Port_Macquarie.raire,contest 1,simple audit,75,RAIRE,19
 RaireData/Input/NSW15/Port_Stephens.raire,contest 1,simple audit,83,RAIRE,83
 RaireData/Input/NSW15/Prospect.raire,contest 1,simple audit,124,RAIRE,124
-RaireData/Input/NSW15/Riverstone.raire,contest 1,simple audit,31,RAIRE,31
+RaireData/Input/NSW15/Riverstone.raire,contest 1,simple audit,35,RAIRE,31
 RaireData/Input/NSW15/Rockdale.raire,contest 1,simple audit,87,RAIRE,87
-RaireData/Input/NSW15/Ryde.raire,contest 1,simple audit,43,RAIRE,34
+RaireData/Input/NSW15/Ryde.raire,contest 1,simple audit,59,RAIRE,34
 RaireData/Input/NSW15/Seven_Hills.raire,contest 1,simple audit,47,RAIRE,47
-RaireData/Input/NSW15/Shellharbour.raire,contest 1,simple audit,53,RAIRE,24
-RaireData/Input/NSW15/South_Coast.raire,contest 1,simple audit,43,RAIRE,41
+RaireData/Input/NSW15/Shellharbour.raire,contest 1,simple audit,133,RAIRE,24
+RaireData/Input/NSW15/South_Coast.raire,contest 1,simple audit,56,RAIRE,41
 RaireData/Input/NSW15/Strathfield.raire,contest 1,simple audit,226,RAIRE,226
-RaireData/Input/NSW15/Summer_Hill.raire,contest 1,simple audit,305,RAIRE,45
-RaireData/Input/NSW15/Swansea.raire,contest 1,simple audit,76,RAIRE,35
-RaireData/Input/NSW15/Sydney.raire,contest 1,simple audit,54,RAIRE,54
+RaireData/Input/NSW15/Summer_Hill.raire,contest 1,simple audit,Full Recount,RAIRE,45
+RaireData/Input/NSW15/Swansea.raire,contest 1,simple audit,180,RAIRE,35
+RaireData/Input/NSW15/Sydney.raire,contest 1,simple audit,192,RAIRE,54
 RaireData/Input/NSW15/Tamworth.raire,contest 1,simple audit,38,RAIRE,38
-RaireData/Input/NSW15/Terrigal.raire,contest 1,simple audit,44,RAIRE,44
+RaireData/Input/NSW15/Terrigal.raire,contest 1,simple audit,47,RAIRE,44
 RaireData/Input/NSW15/TheEntrance.raire,contest 1,simple audit,1587,RAIRE,1587
 RaireData/Input/NSW15/Tweed.raire,contest 1,simple audit,127,RAIRE,127
 RaireData/Input/NSW15/Upper_Hunter.raire,contest 1,simple audit,202,RAIRE,202
-RaireData/Input/NSW15/Vaucluse.raire,contest 1,simple audit,157,RAIRE,16
-RaireData/Input/NSW15/Wagga_Wagga.raire,contest 1,simple audit,44,RAIRE,31
-RaireData/Input/NSW15/Wakehurst.raire,contest 1,simple audit,458,RAIRE,15
-RaireData/Input/NSW15/Wallsend.raire,contest 1,simple audit,56,RAIRE,18
+RaireData/Input/NSW15/Vaucluse.raire,contest 1, no simple audit,, RAIRE,16
+RaireData/Input/NSW15/Wagga_Wagga.raire,contest 1,simple audit,83,RAIRE,31
+RaireData/Input/NSW15/Wakehurst.raire,contest 1, no simple audit,, RAIRE,15
+RaireData/Input/NSW15/Wallsend.raire,contest 1,simple audit,448,RAIRE,18
 RaireData/Input/NSW15/Willoughby.raire,contest 1, no simple audit,, RAIRE,16
-RaireData/Input/NSW15/Wollondilly.raire,contest 1,simple audit,51,RAIRE,23
+RaireData/Input/NSW15/Wollondilly.raire,contest 1,simple audit,73,RAIRE,23
 RaireData/Input/NSW15/Wollongong.raire,contest 1, no simple audit,, RAIRE,55
-RaireData/Input/NSW15/Wyong.raire,contest 1,simple audit,46,RAIRE,46
-RaireData/Input/NSW19/Albury.raire,contest 1,simple audit,51,RAIRE,25
-RaireData/Input/NSW19/Auburn.raire,contest 1,simple audit,45,RAIRE,45
-RaireData/Input/NSW19/Ballina.raire,contest 1,simple audit,130,RAIRE,93
-RaireData/Input/NSW19/Balmain.raire,contest 1,simple audit,93,RAIRE,44
-RaireData/Input/NSW19/Bankstown.raire,contest 1,simple audit,37,RAIRE,29
-RaireData/Input/NSW19/Barwon.raire,contest 1,simple audit,121,RAIRE,74
-RaireData/Input/NSW19/Bathurst.raire,contest 1,simple audit,155,RAIRE,22
-RaireData/Input/NSW19/Baulkham_Hills.raire,contest 1,simple audit,53,RAIRE,20
+RaireData/Input/NSW15/Wyong.raire,contest 1,simple audit,67,RAIRE,46
+RaireData/Input/NSW19/Albury.raire,contest 1,simple audit,70,RAIRE,25
+RaireData/Input/NSW19/Auburn.raire,contest 1,simple audit,64,RAIRE,45
+RaireData/Input/NSW19/Ballina.raire,contest 1, no simple audit,, RAIRE,93
+RaireData/Input/NSW19/Balmain.raire,contest 1,simple audit,148,RAIRE,44
+RaireData/Input/NSW19/Bankstown.raire,contest 1,simple audit,59,RAIRE,29
+RaireData/Input/NSW19/Barwon.raire,contest 1, no simple audit,, RAIRE,74
+RaireData/Input/NSW19/Bathurst.raire,contest 1, no simple audit,, RAIRE,22
+RaireData/Input/NSW19/Baulkham_Hills.raire,contest 1,simple audit,70,RAIRE,20
 RaireData/Input/NSW19/Bega.raire,contest 1,simple audit,58,RAIRE,58
-RaireData/Input/NSW19/Blacktown.raire,contest 1,simple audit,45,RAIRE,23
-RaireData/Input/NSW19/Blue_Mountains.raire,contest 1,simple audit,56,RAIRE,26
-RaireData/Input/NSW19/Cabramatta.raire,contest 1,simple audit,74,RAIRE,34
-RaireData/Input/NSW19/Camden.raire,contest 1,simple audit,60,RAIRE,60
-RaireData/Input/NSW19/Campbelltown.raire,contest 1,simple audit,41,RAIRE,24
-RaireData/Input/NSW19/Canterbury.raire,contest 1,simple audit,40,RAIRE,30
-RaireData/Input/NSW19/Castle_Hill.raire,contest 1,simple audit,66,RAIRE,14
-RaireData/Input/NSW19/Cessnock.raire,contest 1,simple audit,61,RAIRE,21
-RaireData/Input/NSW19/Charlestown.raire,contest 1,simple audit,36,RAIRE,31
-RaireData/Input/NSW19/Clarence.raire,contest 1,simple audit,454,RAIRE,30
+RaireData/Input/NSW19/Blacktown.raire,contest 1,simple audit,82,RAIRE,23
+RaireData/Input/NSW19/Blue_Mountains.raire,contest 1, no simple audit,, RAIRE,26
+RaireData/Input/NSW19/Cabramatta.raire,contest 1,simple audit,118,RAIRE,34
+RaireData/Input/NSW19/Camden.raire,contest 1,simple audit,69,RAIRE,60
+RaireData/Input/NSW19/Campbelltown.raire,contest 1,simple audit,296,RAIRE,24
+RaireData/Input/NSW19/Canterbury.raire,contest 1, no simple audit,, RAIRE,30
+RaireData/Input/NSW19/Castle_Hill.raire,contest 1,simple audit,114,RAIRE,14
+RaireData/Input/NSW19/Cessnock.raire,contest 1,simple audit,139,RAIRE,21
+RaireData/Input/NSW19/Charlestown.raire,contest 1, no simple audit,, RAIRE,31
+RaireData/Input/NSW19/Clarence.raire,contest 1, no simple audit,, RAIRE,30
 RaireData/Input/NSW19/Coffs_Harbour.raire,contest 1, no simple audit,, RAIRE,46
 RaireData/Input/NSW19/Coogee.raire,contest 1,simple audit,247,RAIRE,247
 RaireData/Input/NSW19/Cootamundra.raire,contest 1, no simple audit,, RAIRE,14
-RaireData/Input/NSW19/Cronulla.raire,contest 1,simple audit,50,RAIRE,19
+RaireData/Input/NSW19/Cronulla.raire,contest 1,simple audit,68,RAIRE,19
 RaireData/Input/NSW19/Davidson.raire,contest 1, no simple audit,, RAIRE,15
-RaireData/Input/NSW19/Drummoyne.raire,contest 1,simple audit,51,RAIRE,25
+RaireData/Input/NSW19/Drummoyne.raire,contest 1,simple audit,74,RAIRE,25
 RaireData/Input/NSW19/Dubbo.raire,contest 1,simple audit,234,RAIRE,234
 RaireData/Input/NSW19/East_Hills.raire,contest 1,simple audit,1167,RAIRE,1167
-RaireData/Input/NSW19/Epping.raire,contest 1,simple audit,45,RAIRE,31
-RaireData/Input/NSW19/Fairfield.raire,contest 1,simple audit,50,RAIRE,23
-RaireData/Input/NSW19/Gosford.raire,contest 1,simple audit,57,RAIRE,57
+RaireData/Input/NSW19/Epping.raire,contest 1,simple audit,60,RAIRE,31
+RaireData/Input/NSW19/Fairfield.raire,contest 1, no simple audit,, RAIRE,23
+RaireData/Input/NSW19/Gosford.raire,contest 1,simple audit,97,RAIRE,57
 RaireData/Input/NSW19/Goulburn.raire,contest 1,simple audit,128,RAIRE,128
 RaireData/Input/NSW19/Granville.raire,contest 1,simple audit,54,RAIRE,54
-RaireData/Input/NSW19/Hawkesbury.raire,contest 1,simple audit,109,RAIRE,25
+RaireData/Input/NSW19/Hawkesbury.raire,contest 1,simple audit,212,RAIRE,25
 RaireData/Input/NSW19/Heathcote.raire,contest 1,simple audit,79,RAIRE,79
-RaireData/Input/NSW19/Heffron.raire,contest 1,simple audit,237,RAIRE,36
+RaireData/Input/NSW19/Heffron.raire,contest 1, no simple audit,, RAIRE,36
 RaireData/Input/NSW19/Holsworthy.raire,contest 1,simple audit,130,RAIRE,130
-RaireData/Input/NSW19/Hornsby.raire,contest 1,simple audit,181,RAIRE,25
-RaireData/Input/NSW19/Keira.raire,contest 1,simple audit,78,RAIRE,19
-RaireData/Input/NSW19/Kiama.raire,contest 1,simple audit,47,RAIRE,32
+RaireData/Input/NSW19/Hornsby.raire,contest 1,simple audit,3172,RAIRE,25
+RaireData/Input/NSW19/Keira.raire,contest 1, no simple audit,, RAIRE,19
+RaireData/Input/NSW19/Kiama.raire,contest 1,simple audit,67,RAIRE,32
 RaireData/Input/NSW19/Kogarah.raire,contest 1,simple audit,236,RAIRE,236
-RaireData/Input/NSW19/Ku-ring-gai.raire,contest 1,simple audit,227,RAIRE,18
-RaireData/Input/NSW19/Lake_Macquarie.raire,contest 1,simple audit,154,RAIRE,18
-RaireData/Input/NSW19/Lakemba.raire,contest 1,simple audit,54,RAIRE,18
-RaireData/Input/NSW19/Lane_Cove.raire,contest 1,simple audit,147,RAIRE,28
+RaireData/Input/NSW19/Ku-ring-gai.raire,contest 1, no simple audit,, RAIRE,18
+RaireData/Input/NSW19/Lake_Macquarie.raire,contest 1, no simple audit,, RAIRE,18
+RaireData/Input/NSW19/Lakemba.raire,contest 1,simple audit,952,RAIRE,18
+RaireData/Input/NSW19/Lane_Cove.raire,contest 1, no simple audit,, RAIRE,28
 RaireData/Input/NSW19/Lismore.raire,contest 1, no simple audit,, RAIRE,1526
-RaireData/Input/NSW19/Liverpool.raire,contest 1,simple audit,42,RAIRE,25
+RaireData/Input/NSW19/Liverpool.raire,contest 1,simple audit,65,RAIRE,25
 RaireData/Input/NSW19/Londonderry.raire,contest 1,simple audit,63,RAIRE,63
-RaireData/Input/NSW19/Macquarie_Fields.raire,contest 1,simple audit,37,RAIRE,28
-RaireData/Input/NSW19/Maitland.raire,contest 1,simple audit,56,RAIRE,34
+RaireData/Input/NSW19/Macquarie_Fields.raire,contest 1,simple audit,54,RAIRE,28
+RaireData/Input/NSW19/Maitland.raire,contest 1,simple audit,79,RAIRE,34
 RaireData/Input/NSW19/Manly.raire,contest 1, no simple audit,, RAIRE,31
-RaireData/Input/NSW19/Maroubra.raire,contest 1,simple audit,50,RAIRE,50
-RaireData/Input/NSW19/Miranda.raire,contest 1,simple audit,38,RAIRE,27
-RaireData/Input/NSW19/Monaro.raire,contest 1,simple audit,41,RAIRE,34
-RaireData/Input/NSW19/Mount_Druitt.raire,contest 1,simple audit,36,RAIRE,24
+RaireData/Input/NSW19/Maroubra.raire,contest 1,simple audit,117,RAIRE,50
+RaireData/Input/NSW19/Miranda.raire,contest 1,simple audit,51,RAIRE,27
+RaireData/Input/NSW19/Monaro.raire,contest 1,simple audit,58,RAIRE,34
+RaireData/Input/NSW19/Mount_Druitt.raire,contest 1,simple audit,71,RAIRE,24
 RaireData/Input/NSW19/Mulgoa.raire,contest 1,simple audit,34,RAIRE,34
 RaireData/Input/NSW19/Murray.raire,contest 1,simple audit,129,RAIRE,129
-RaireData/Input/NSW19/Myall_Lakes.raire,contest 1,simple audit,45,RAIRE,45
-RaireData/Input/NSW19/Newcastle.raire,contest 1,simple audit,123,RAIRE,25
-RaireData/Input/NSW19/Newtown.raire,contest 1,simple audit,72,RAIRE,30
-RaireData/Input/NSW19/North_Shore.raire,contest 1,simple audit,1473,RAIRE,39
-RaireData/Input/NSW19/Northern_Tablelands.raire,contest 1,simple audit,620,RAIRE,10
+RaireData/Input/NSW19/Myall_Lakes.raire,contest 1,simple audit,55,RAIRE,45
+RaireData/Input/NSW19/Newcastle.raire,contest 1, no simple audit,, RAIRE,25
+RaireData/Input/NSW19/Newtown.raire,contest 1,simple audit,90,RAIRE,30
+RaireData/Input/NSW19/North_Shore.raire,contest 1, no simple audit,, RAIRE,39
+RaireData/Input/NSW19/Northern_Tablelands.raire,contest 1, no simple audit,, RAIRE,10
 RaireData/Input/NSW19/Oatley.raire,contest 1,simple audit,36,RAIRE,36
-RaireData/Input/NSW19/Orange.raire,contest 1,simple audit,58,RAIRE,28
-RaireData/Input/NSW19/Oxley.raire,contest 1,simple audit,130,RAIRE,28
-RaireData/Input/NSW19/Parramatta.raire,contest 1,simple audit,37,RAIRE,37
+RaireData/Input/NSW19/Orange.raire,contest 1,simple audit,104,RAIRE,28
+RaireData/Input/NSW19/Oxley.raire,contest 1,simple audit,603,RAIRE,28
+RaireData/Input/NSW19/Parramatta.raire,contest 1,simple audit,42,RAIRE,37
 RaireData/Input/NSW19/Penrith.raire,contest 1,simple audit,392,RAIRE,392
-RaireData/Input/NSW19/Pittwater.raire,contest 1,simple audit,1254,RAIRE,19
-RaireData/Input/NSW19/Port_Macquarie.raire,contest 1,simple audit,52,RAIRE,18
+RaireData/Input/NSW19/Pittwater.raire,contest 1, no simple audit,, RAIRE,19
+RaireData/Input/NSW19/Port_Macquarie.raire,contest 1,simple audit,77,RAIRE,18
 RaireData/Input/NSW19/Port_Stephens.raire,contest 1,simple audit,69,RAIRE,69
-RaireData/Input/NSW19/Prospect.raire,contest 1,simple audit,38,RAIRE,38
+RaireData/Input/NSW19/Prospect.raire,contest 1,simple audit,70,RAIRE,38
 RaireData/Input/NSW19/Riverstone.raire,contest 1,simple audit,59,RAIRE,59
-RaireData/Input/NSW19/Rockdale.raire,contest 1,simple audit,44,RAIRE,44
+RaireData/Input/NSW19/Rockdale.raire,contest 1,simple audit,47,RAIRE,44
 RaireData/Input/NSW19/Ryde.raire,contest 1,simple audit,44,RAIRE,44
 RaireData/Input/NSW19/Seven_Hills.raire,contest 1,simple audit,62,RAIRE,62
-RaireData/Input/NSW19/Shellharbour.raire,contest 1,simple audit,45,RAIRE,21
-RaireData/Input/NSW19/South_Coast.raire,contest 1,simple audit,40,RAIRE,36
+RaireData/Input/NSW19/Shellharbour.raire,contest 1,simple audit,137,RAIRE,21
+RaireData/Input/NSW19/South_Coast.raire,contest 1,simple audit,54,RAIRE,36
 RaireData/Input/NSW19/Strathfield.raire,contest 1,simple audit,80,RAIRE,80
 RaireData/Input/NSW19/Summer_Hill.raire,contest 1, no simple audit,, RAIRE,29
-RaireData/Input/NSW19/Swansea.raire,contest 1,simple audit,38,RAIRE,38
-RaireData/Input/NSW19/Sydney.raire,contest 1,simple audit,72,RAIRE,35
+RaireData/Input/NSW19/Swansea.raire,contest 1,simple audit,47,RAIRE,38
+RaireData/Input/NSW19/Sydney.raire,contest 1, no simple audit,, RAIRE,35
 RaireData/Input/NSW19/Tamworth.raire,contest 1, no simple audit,, RAIRE,19
-RaireData/Input/NSW19/Terrigal.raire,contest 1,simple audit,53,RAIRE,33
+RaireData/Input/NSW19/Terrigal.raire,contest 1,simple audit,66,RAIRE,33
 RaireData/Input/NSW19/The_Entrance.raire,contest 1,simple audit,80,RAIRE,80
 RaireData/Input/NSW19/Tweed.raire,contest 1,simple audit,83,RAIRE,83
-RaireData/Input/NSW19/Upper_Hunter.raire,contest 1,simple audit,194,RAIRE,194
+RaireData/Input/NSW19/Upper_Hunter.raire,contest 1, no simple audit,, RAIRE,194
 RaireData/Input/NSW19/Vaucluse.raire,contest 1, no simple audit,, RAIRE,20
-RaireData/Input/NSW19/Wagga_Wagga.raire,contest 1,simple audit,95,RAIRE,27
-RaireData/Input/NSW19/Wakehurst.raire,contest 1,simple audit,187,RAIRE,19
-RaireData/Input/NSW19/Wallsend.raire,contest 1,simple audit,79,RAIRE,15
+RaireData/Input/NSW19/Wagga_Wagga.raire,contest 1, no simple audit,, RAIRE,27
+RaireData/Input/NSW19/Wakehurst.raire,contest 1,simple audit,Full Recount,RAIRE,19
+RaireData/Input/NSW19/Wallsend.raire,contest 1, no simple audit,, RAIRE,15
 RaireData/Input/NSW19/Willoughby.raire,contest 1, no simple audit,, RAIRE,19
-RaireData/Input/NSW19/Wollondilly.raire,contest 1,simple audit,519,RAIRE,91
-RaireData/Input/NSW19/Wollongong.raire,contest 1,simple audit,135,RAIRE,20
-RaireData/Input/NSW19/Wyong.raire,contest 1,simple audit,34,RAIRE,32
+RaireData/Input/NSW19/Wollondilly.raire,contest 1,simple audit,1640,RAIRE,91
+RaireData/Input/NSW19/Wollongong.raire,contest 1, no simple audit,, RAIRE,20
+RaireData/Input/NSW19/Wyong.raire,contest 1,simple audit,153,RAIRE,32
 RaireData/Input/US/Aspen_2009_CityCouncil.raire,contest 1, no simple audit,, RAIRE,241
-RaireData/Input/US/Aspen_2009_Mayor.raire,contest 1,simple audit,99,RAIRE,99
-RaireData/Input/US/Berkeley_2010_D1CityCouncil.raire,contest 1,simple audit,53,RAIRE,16
-RaireData/Input/US/Berkeley_2010_D4CityCouncil.raire,contest 1,simple audit,36,RAIRE,31
-RaireData/Input/US/Berkeley_2010_D7CityCouncil.raire,contest 1,simple audit,40,RAIRE,40
-RaireData/Input/US/Berkeley_2010_D8CityCouncil.raire,contest 1,simple audit,Full Recount,RAIRE,17
-RaireData/Input/US/Oakland_2010_D4CityCouncil.raire,contest 1,simple audit,124,RAIRE,31
-RaireData/Input/US/Oakland_2010_D6CityCouncil.raire,contest 1,simple audit,94,RAIRE,16
+RaireData/Input/US/Aspen_2009_Mayor.raire,contest 1, no simple audit,, RAIRE,99
+RaireData/Input/US/Berkeley_2010_D1CityCouncil.raire,contest 1,simple audit,1228,RAIRE,16
+RaireData/Input/US/Berkeley_2010_D4CityCouncil.raire,contest 1,simple audit,98,RAIRE,31
+RaireData/Input/US/Berkeley_2010_D7CityCouncil.raire,contest 1, no simple audit,, RAIRE,40
+RaireData/Input/US/Berkeley_2010_D8CityCouncil.raire,contest 1, no simple audit,, RAIRE,17
+RaireData/Input/US/Oakland_2010_D4CityCouncil.raire,contest 1, no simple audit,, RAIRE,31
+RaireData/Input/US/Oakland_2010_D6CityCouncil.raire,contest 1, no simple audit,, RAIRE,16
 RaireData/Input/US/Oakland_2010_Mayor.raire,contest 1, no simple audit,, RAIRE,498
-RaireData/Input/US/Pierce_2008_CityCouncil.raire,contest 1,simple audit,70,RAIRE,70
+RaireData/Input/US/Pierce_2008_CityCouncil.raire,contest 1,simple audit,426,RAIRE,70
 RaireData/Input/US/Pierce_2008_CountyAssessor.raire,contest 1, no simple audit,, RAIRE,1151
 RaireData/Input/US/Pierce_2008_CountyAuditor.raire,contest 1,simple audit,64,RAIRE,64
 RaireData/Input/US/Pierce_2008_CountyExecutive.raire,contest 1, no simple audit,, RAIRE,624
